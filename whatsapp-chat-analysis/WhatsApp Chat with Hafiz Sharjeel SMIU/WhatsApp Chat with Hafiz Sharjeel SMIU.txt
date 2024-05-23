@@ -1,0 +1,1268 @@
+11/12/23, 11:15 AM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+11/13/23, 3:15 PM - Hafiz Sharjeel SMIU is a contact
+11/13/23, 3:15 PM - You use a default timer for disappearing messages in new chats. New messages will disappear from this chat 7 days after they're sent, except when kept. Tap to set your own default timer
+11/13/23, 4:36 PM - Hafiz Sharjeel SMIU: Hafiz Sharjeel SMIU turned off disappearing messages. Tap to change.
+11/13/23, 4:47 PM - محمد عمر خان: Aba aram sa niklainga 2 tuk
+11/13/23, 4:48 PM - Hafiz Sharjeel SMIU: Pagal he kia ager time hone tk room nahi milana to gae
+11/13/23, 4:48 PM - محمد عمر خان: Chalo 1 45 aajaonga ma tumhara pass
+11/13/23, 4:49 PM - Hafiz Sharjeel SMIU: Phla he thora jaldi challe pata chal jaega k kia seen he phir chalenge aaram se <This message was edited>
+11/13/23, 4:49 PM - محمد عمر خان: 1 45 aajaonga
+11/13/23, 4:49 PM - Hafiz Sharjeel SMIU: Ok
+11/14/23, 10:04 AM - محمد عمر خان: room kon s h??
+11/14/23, 12:42 PM - Hafiz Sharjeel SMIU: Cr 204
+11/14/23, 12:42 PM - Hafiz Sharjeel SMIU: Hm dono ka same he
+11/14/23, 12:45 PM - Hafiz Sharjeel SMIU: Ham dono ka saath jienge saath marenge wala scene he.🙄😂
+11/14/23, 1:54 PM - Hafiz Sharjeel SMIU: Oe aaja jaldi
+11/15/23, 2:03 PM - Hafiz Sharjeel SMIU: Oe kaha he jaldi aa
+11/15/23, 4:02 PM - محمد عمر خان: Kaha ha?
+11/16/23, 11:30 AM - محمد عمر خان: 130 tuk aaonga
+11/16/23, 11:41 AM - Hafiz Sharjeel SMIU: Mera dil ye phukare aaajaaaa🕺🏻
+11/16/23, 1:44 PM - Hafiz Sharjeel SMIU: Kab aaega?
+11/16/23, 4:02 PM - محمد عمر خان: Aja jaldi
+11/17/23, 6:56 PM - Hafiz Sharjeel SMIU: Oe 10 baje aajana paper 11 se he.
+11/17/23, 7:05 PM - محمد عمر خان: <Media omitted>
+11/18/23, 10:06 AM - Hafiz Sharjeel SMIU: Jaldi aa
+11/20/23, 12:00 PM - محمد عمر خان: ?
+11/22/23, 7:10 PM - Hafiz Sharjeel SMIU: Ow tera license bana howa he? Ya cnic?
+11/22/23, 8:34 PM - Hafiz Sharjeel SMIU: Oe kl ki class off he ict ki see you 11am
+11/22/23, 9:09 PM - محمد عمر خان: Ok
+11/22/23, 9:09 PM - محمد عمر خان: Nh bna hua h
+11/22/23, 9:10 PM - Hafiz Sharjeel SMIU: To form kese bharna he?
+11/22/23, 9:10 PM - Hafiz Sharjeel SMIU: Cnic bhi nahi he?
+11/22/23, 9:10 PM - محمد عمر خان: Mujhe khud nh pta
+11/22/23, 9:11 PM - Hafiz Sharjeel SMIU: Check it out and tell me i gonna send you link
+11/22/23, 9:11 PM - Hafiz Sharjeel SMIU: https://docs.google.com/forms/d/e/1FAIpQLScakgvZo-T20MWu5pV_vJpyzXWqBaMVnbGiArZ3w3-UB1RUpg/viewform
+11/22/23, 9:14 PM - محمد عمر خان: Bay form sa likh k bhr da
+11/22/23, 9:19 PM - Hafiz Sharjeel SMIU: License ka kia karna he abba ka dalega kia
+11/28/23, 8:09 AM - محمد عمر خان: Ara ho
+11/29/23, 8:14 AM - Hafiz Sharjeel SMIU: Missed voice call
+11/29/23, 8:12 PM - Hafiz Sharjeel SMIU: See you tomorrow at 9:15am
+11/29/23, 9:13 PM - محمد عمر خان: SojAa
+11/29/23, 9:37 PM - Hafiz Sharjeel SMIU: Raat main to me jaagta hun bhai. Tu soja
+11/29/23, 10:06 PM - محمد عمر خان: <Media omitted>
+12/1/23, 9:20 PM - Hafiz Sharjeel SMIU: Bhai mujhe tla2 ka q3 chahye mujhe samj me hi nahi aaraha. Mene sirf usw analyze karna he
+12/1/23, 10:36 PM - محمد عمر خان: Kal banaonga too bhj donga
+12/2/23, 2:17 AM - Hafiz Sharjeel SMIU: Rehne de me bana lunga khud.
+Bs itna bata de graph kaha show hoga mujhe to nazr nahi aaraha🤔🧐?
+Koi application download karni hogi ya kia?? <This message was edited>
+12/2/23, 6:42 AM - محمد عمر خان: Daikh k bta ta ho
+12/4/23, 6:55 PM - Hafiz Sharjeel SMIU: I'll be on 1pm.
+12/5/23, 8:09 PM - Hafiz Sharjeel SMIU: Oe quiz to bhej
+12/6/23, 8:11 AM - محمد عمر خان: #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main() {
+    // Initialize a 3x4 array with sequential numbers
+    int array_2d[3][4];
+    int counter = 1; // Start with 1
+
+    // Fill the array with sequential numbers
+    for (int i = 0; i < 3; ++i) {
+        for (int j = 0; j < 4; ++j) {
+            array_2d[i][j] = counter++;
+        }
+    }
+
+    // Print array values with ASCII status
+    for (int i = 0; i < 3; ++i) {
+        for (int j = 0; j < 4; ++j) {
+            int num = array_2d[i][j];
+            char status[20];
+
+            if ((num >= 65 && num <= 90) || (num >= 97 && num <= 122) || (num >= 48 && num <= 57)) {
+                sprintf(status, "ASCII: %c", (char)num);
+            } else {
+                sprintf(status, "Non-ASCII");
+            }
+
+            printf("%d (%s) | ", num, status);
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
+12/6/23, 8:11 AM - محمد عمر خان: <Media omitted>
+12/11/23, 10:32 PM - محمد عمر خان: <Media omitted>
+12/11/23, 10:32 PM - محمد عمر خان: <Media omitted>
+12/11/23, 10:45 PM - Hafiz Sharjeel SMIU: Mery ziada he na shuru me mere miss howe hen 2 english or 3 discrete hochuke hen
+12/11/23, 10:46 PM - Hafiz Sharjeel SMIU: Chalo koi nahi i see. Parso aajana
+12/11/23, 10:46 PM - محمد عمر خان: See you
+12/12/23, 1:10 PM - Hafiz Sharjeel SMIU: Abe oe aaj hamara quiz gaya
+12/12/23, 1:10 PM - Hafiz Sharjeel SMIU: English ka
+12/12/23, 1:13 PM - Hafiz Sharjeel SMIU: 😢mene bhi tulla mara tha aaj.
+12/12/23, 2:34 PM - محمد عمر خان: Kn bola tha
+12/12/23, 2:34 PM - محمد عمر خان: Aj shayad DS k bh hoga
+12/12/23, 4:38 PM - Hafiz Sharjeel SMIU: Nahi assignment dene k next week hoga ds ka
+12/12/23, 7:42 PM - Hafiz Sharjeel SMIU: Jaldi aajana kl q k kl dabang ka class he 5 min late can make you count as absent.
+12/12/23, 8:48 PM - محمد عمر خان: Chup kr k soja
+12/12/23, 11:54 PM - Hafiz Sharjeel SMIU: Kaash so pata🥲
+12/12/23, 11:54 PM - محمد عمر خان: <Media omitted>
+12/13/23, 8:15 AM - Hafiz Sharjeel SMIU: Abe kaha mar gaya?
+12/13/23, 9:43 PM - Hafiz Sharjeel SMIU: Kitne baje aaega kl?
+12/13/23, 9:51 PM - محمد عمر خان: 10
+12/13/23, 10:03 PM - Hafiz Sharjeel SMIU: Jaldi aana ta k 10:30 tk phonch saken.
+12/14/23, 6:41 AM - محمد عمر خان: Ok
+12/18/23, 1:52 PM - محمد عمر خان: oy
+12/18/23, 1:52 PM - محمد عمر خان: DS ka assignment bhj
+12/18/23, 1:52 PM - محمد عمر خان: solution
+12/18/23, 1:52 PM - محمد عمر خان: jaldi
+12/18/23, 1:56 PM - Hafiz Sharjeel SMIU: Nahi kia hun
+12/18/23, 1:56 PM - Hafiz Sharjeel SMIU: Wahi to solve karwana he
+12/18/23, 1:57 PM - محمد عمر خان: jaldi Krka bhj
+12/18/23, 2:27 PM - Hafiz Sharjeel SMIU: Abe nahi samj me aaraha he gadhe
+12/18/23, 2:27 PM - Hafiz Sharjeel SMIU: Kl uni me karte hen solve saath.
+Baqi jo already solve he slide me wo karle. <This message was edited>
+12/20/23, 8:54 PM - Hafiz Sharjeel SMIU: Kl 9:30 pr aaonga
+12/20/23, 9:07 PM - محمد عمر خان: <Media omitted>
+12/20/23, 9:08 PM - Hafiz Sharjeel SMIU: Oe quiz ki tayyari karle me nahi parh sakan mujhe time nahi mila or abhi bhi me busy hun
+12/20/23, 9:08 PM - Hafiz Sharjeel SMIU: Kl tum logon ki help chahye mujhe
+12/20/23, 9:11 PM - محمد عمر خان: <Media omitted>
+12/26/23, 10:19 AM - محمد عمر خان: You deleted this message
+12/26/23, 11:11 AM - محمد عمر خان: .
+12/26/23, 8:21 AM - Hafiz Sharjeel SMIU: Aa bhi jaaa
+12/27/23, 8:51 PM - Hafiz Sharjeel SMIU: See you on 11:15
+12/27/23, 8:52 PM - محمد عمر خان: <Media omitted>
+1/3/24, 9:45 PM - محمد عمر خان: <Media omitted>
+1/3/24, 9:46 PM - محمد عمر خان: <Media omitted>
+1/3/24, 10:36 PM - Hafiz Sharjeel SMIU: This message was deleted
+1/3/24, 10:36 PM - Hafiz Sharjeel SMIU: This message was deleted
+1/3/24, 10:41 PM - Hafiz Sharjeel SMIU: This message was deleted
+1/3/24, 11:08 PM - Hafiz Sharjeel SMIU: This message was deleted
+1/3/24, 11:08 PM - Hafiz Sharjeel SMIU: This message was deleted
+1/3/24, 11:09 PM - Hafiz Sharjeel SMIU: This message was deleted
+1/4/24, 6:51 AM - محمد عمر خان: Chal set koi nh
+1/4/24, 1:31 PM - Hafiz Sharjeel SMIU: Oe aaj class cencel hogai thi😑
+1/4/24, 1:31 PM - Hafiz Sharjeel SMIU: <Media omitted>
+1/4/24, 1:31 PM - Hafiz Sharjeel SMIU: Kabhi apne bhai ki baat maan lia kr. Dekh tujhe bhi khuwar hone se bachaya mene <This message was edited>
+1/4/24, 3:03 PM - محمد عمر خان: Nh gya tha n
+1/4/24, 3:55 PM - Hafiz Sharjeel SMIU: Hn pata he hasan ne bataya
+1/6/24, 9:45 AM - محمد عمر خان: oy
+1/6/24, 9:46 AM - محمد عمر خان: <Media omitted>
+1/6/24, 9:46 AM - محمد عمر خان: payara bhai
+1/6/24, 1:42 PM - Hafiz Sharjeel SMIU: Abe wo pyara bhai aaj new year party he office me ab direct Monday ko on hoga.😑 Me pagal tha jo itni jaldi send kia tum logo ko
+1/6/24, 3:03 PM - محمد عمر خان: aba manhoos
+1/6/24, 4:04 PM - Hafiz Sharjeel SMIU: This message was deleted
+1/6/24, 4:14 PM - Hafiz Sharjeel SMIU: Open nahi horaha code copy karke whatsapp pr send kr ta k me online run karsakun
+1/7/24, 10:31 AM - محمد عمر خان: #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+
+int getComputerChoice() {
+    return rand() % 3;
+}
+
+
+void displayResult(int playerChoice, int computerChoice) {
+    FILE *filePointer;
+    printf("Your choice: ");
+    switch (playerChoice) {
+        case 0:
+            printf("Rock\n");
+            break;
+        case 1:
+            printf("Paper\n");
+            break;
+        case 2:
+            printf("Scissors\n");
+            break;
+        default:
+            break;
+    }
+
+    printf("Computer's choice: ");
+    switch (computerChoice) {
+        case 0:
+            printf("Rock\n");
+            break;
+        case 1:
+            printf("Paper\n");
+            break;
+        case 2:
+            printf("Scissors\n");
+            break;
+        default:
+            break;
+    }
+
+    if (playerChoice == computerChoice) {
+        printf("It's a tie!\n");
+    } else if ((playerChoice == 0 && computerChoice == 2) ||
+               (playerChoice == 1 && computerChoice == 0) ||
+               (playerChoice == 2 && computerChoice == 1)) {
+        printf("Congrstulations. You win!\n");
+        filePointer = fopen("output.txt", "w");
+        if (filePointer == NULL) {
+            printf("Error opening the file.\n");
+            return 1;
+        }
+        fprintf(filePointer, "Congrstulations. You won the last game!");
+        fclose(filePointer);
+    } else {
+        printf("Alas. You lose!. Try Again\n");
+    }
+}
+
+int main() {
+    srand(time(NULL));
+
+    int playerChoice;
+
+    printf("Welcome to Rock, Paper, Scissors!\n");
+    printf("Choose your move:\n");
+    printf("0. Rock\n");
+    printf("1. Paper\n");
+    printf("2. Scissors\n");
+
+    printf("Enter your choice (0, 1, or 2): ");
+    scanf("%d", &playerChoice);
+
+    if (playerChoice < 0 || playerChoice > 2) {
+        printf("Invalid choice. Please enter 0, 1, or 2.\n");
+        return 1;  
+    }
+
+    int computerChoice = getComputerChoice();
+    displayResult(playerChoice, computerChoice);
+
+    return 0;
+}
+1/7/24, 1:11 PM - Hafiz Sharjeel SMIU: Void displayresult me sirf
+Return 1; hata de baqi perfect he lekin ye kesa game he meko to nahi samj aaraha ke rock paper scissors kia hota he
+1/7/24, 1:16 PM - محمد عمر خان: Aba too shi krka code bhj
+1/7/24, 1:16 PM - محمد عمر خان: <Media omitted>
+1/7/24, 1:17 PM - Hafiz Sharjeel SMIU: Me mobile pr run karraha hun tujhe kia laga me office me hun😑
+1/7/24, 1:17 PM - Hafiz Sharjeel SMIU: #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+
+int getComputerChoice() {
+    return rand() % 3;
+}
+
+
+void displayResult(int playerChoice, int computerChoice) {
+    FILE *filePointer;
+    printf("Your choice: ");
+    switch (playerChoice) {
+        case 0:
+            printf("Rock\n");
+            break;
+        case 1:
+            printf("Paper\n");
+            break;
+        case 2:
+            printf("Scissors\n");
+            break;
+        default:
+            break;
+    }
+
+    printf("Computer's choice: ");
+    switch (computerChoice) {
+        case 0:
+            printf("Rock\n");
+            break;
+        case 1:
+            printf("Paper\n");
+            break;
+        case 2:
+            printf("Scissors\n");
+            break;
+        default:
+            break;
+    }
+
+    if (playerChoice == computerChoice) {
+        printf("It's a tie!\n");
+    } else if ((playerChoice == 0 && computerChoice == 2) ||
+               (playerChoice == 1 && computerChoice == 0) ||
+               (playerChoice == 2 && computerChoice == 1)) {
+        printf("Congrstulations. You win!\n");
+        filePointer = fopen("output.txt", "w");
+        if (filePointer == NULL) {
+            printf("Error opening the file.\n");
+            
+        }
+        fprintf(filePointer, "Congrstulations. You won the last game!");
+        fclose(filePointer);
+    } else {
+        printf("Alas. You lose!. Try Again\n");
+    }
+}
+
+int main() {
+    srand(time(NULL));
+
+    int playerChoice;
+
+    printf("Welcome to Rock, Paper, Scissors!\n");
+    printf("Choose your move:\n");
+    printf("0. Rock\n");
+    printf("1. Paper\n");
+    printf("2. Scissors\n");
+
+    printf("Enter your choice (0, 1, or 2): ");
+    scanf("%d", &playerChoice);
+
+    if (playerChoice < 0 || playerChoice > 2) {
+        printf("Invalid choice. Please enter 0, 1, or 2.\n");
+        return 1;  
+    }
+
+    int computerChoice = getComputerChoice();
+    displayResult(playerChoice, computerChoice);
+
+    return 0;
+}
+1/7/24, 1:17 PM - Hafiz Sharjeel SMIU: Sahi code he ye
+1/7/24, 1:18 PM - محمد عمر خان: Aba gadha filing shi h?
+1/7/24, 1:18 PM - Hafiz Sharjeel SMIU: Mujhe kia pata mobile me filling nahi hoti
+1/7/24, 1:18 PM - محمد عمر خان: Too office kab jaega
+1/7/24, 1:18 PM - Hafiz Sharjeel SMIU: Tune khud code kia he ya chatgpt se?
+1/7/24, 1:18 PM - Hafiz Sharjeel SMIU: Kl
+1/7/24, 1:19 PM - محمد عمر خان: Kal pc m run krka btana yad sa keon ka 10 last date h
+1/7/24, 1:19 PM - Hafiz Sharjeel SMIU: Hn or hasan ka code kha he?
+1/7/24, 1:46 PM - محمد عمر خان: <Media omitted>
+1/9/24, 10:59 PM - Hafiz Sharjeel SMIU: 8:30 pr aana
+1/10/24, 12:01 AM - محمد عمر خان: <Media omitted>
+1/10/24, 8:22 AM - Hafiz Sharjeel SMIU: Bhai 9 baje aana ghar me koi nahi he ammi school chorne gai hen bhai ko tala me nahi laga skta chabi un k pas nahi he
+1/10/24, 5:19 PM - محمد عمر خان: <Media omitted>
+1/10/24, 9:01 PM - Hafiz Sharjeel SMIU: Ok
+1/10/24, 9:01 PM - Hafiz Sharjeel SMIU: Mera gloves tere bike k pocket me reh gaya samhal kr rakhna kl lunga
+1/10/24, 10:54 PM - محمد عمر خان: 0k
+1/10/24, 10:56 PM - Hafiz Sharjeel SMIU: 10 baje aaonga <This message was edited>
+1/10/24, 10:56 PM - محمد عمر خان: Hn set
+1/11/24, 10:08 AM - Hafiz Sharjeel SMIU: null
+1/11/24, 7:09 PM - Hafiz Sharjeel SMIU: Abe oe hamne english ka assignment submit nahi kia😨
+1/11/24, 7:52 PM - Hafiz Sharjeel SMIU: null
+1/11/24, 7:57 PM - محمد عمر خان: null
+1/11/24, 7:59 PM - Hafiz Sharjeel SMIU: null
+1/11/24, 8:00 PM - Hafiz Sharjeel SMIU: null
+1/11/24, 8:01 PM - Hafiz Sharjeel SMIU: <Media omitted>
+1/11/24, 8:02 PM - محمد عمر خان: <Media omitted>
+1/11/24, 8:03 PM - Hafiz Sharjeel SMIU: Raat me hoge rum jage howe
+1/11/24, 8:03 PM - محمد عمر خان: Time
+1/11/24, 8:03 PM - Hafiz Sharjeel SMIU: 3:30am pr
+1/11/24, 8:04 PM - محمد عمر خان: Hn m uth jaonga khair h
+1/11/24, 8:04 PM - Hafiz Sharjeel SMIU: Me call karunga whatsapp pr
+1/11/24, 8:04 PM - محمد عمر خان: Ok
+1/11/24, 8:04 PM - Hafiz Sharjeel SMIU: Ghar walon ko koi issue to nahi hoga?
+1/11/24, 8:04 PM - محمد عمر خان: Aba nh ba
+1/11/24, 8:04 PM - Hafiz Sharjeel SMIU: Bolenge chor chamar he kia tera dost
+1/11/24, 8:05 PM - محمد عمر خان: Too bss ajan
+1/11/24, 8:05 PM - Hafiz Sharjeel SMIU: Ok
+1/12/24, 12:01 AM - محمد عمر خان: Ana sa pahla yaad sa call krna tabhi ma uth paonga
+1/12/24, 12:02 AM - Hafiz Sharjeel SMIU: Ok
+1/12/24, 12:02 AM - Hafiz Sharjeel SMIU: Gate k bahar aakar call karunga 3:30 pr
+1/12/24, 12:02 AM - محمد عمر خان: Ok
+1/12/24, 2:55 AM - محمد عمر خان: ?
+1/12/24, 2:50 AM - Hafiz Sharjeel SMIU: Tu so gaya me aadhe ghante me aaraha hun😕
+1/12/24, 2:56 AM - محمد عمر خان: Call krdana
+1/12/24, 10:14 AM - Hafiz Sharjeel SMIU: Umer us se confirm karke bata us ne submit kardia?
+1/12/24, 10:30 AM - محمد عمر خان: Axa
+1/12/24, 10:31 AM - محمد عمر خان: Hn kra dia
+1/12/24, 2:07 PM - Hafiz Sharjeel SMIU: Jazakallah ❤️
+1/14/24, 12:16 PM - Hafiz Sharjeel SMIU: See you at tomorrow 2pm
+Print karwalena admit card wagera apna.
+1/14/24, 12:25 PM - محمد عمر خان: Oct ki tayyari kakia seen?
+1/14/24, 12:59 PM - Hafiz Sharjeel SMIU: What is mean by oct? October???
+1/14/24, 1:30 PM - محمد عمر خان: You deleted this message
+1/14/24, 1:30 PM - محمد عمر خان: You deleted this message
+1/14/24, 1:31 PM - محمد عمر خان: You deleted this message
+1/14/24, 1:31 PM - محمد عمر خان: Ict
+1/14/24, 2:25 PM - Hafiz Sharjeel SMIU: Han hojaega inshallah bs 2 se 3 slide or reh gaya he. Mujhe sirf calculas ka tension he bs. Or english ka or discrete ka or PF ka bs.😄
+1/14/24, 4:06 PM - محمد عمر خان: Bss
+1/25/24, 4:04 PM - محمد عمر خان: oy
+1/25/24, 4:05 PM - محمد عمر خان: fee voucher m number of course 5 hain na??
+1/25/24, 4:05 PM - محمد عمر خان: <Media omitted>
+1/25/24, 4:47 PM - Hafiz Sharjeel SMIU: Han
+1/25/24, 4:47 PM - Hafiz Sharjeel SMIU: Ruk to jata result tk k.
+1/25/24, 4:48 PM - محمد عمر خان: dobara nikal jaega
+1/25/24, 8:51 PM - محمد عمر خان: English ka kitna aai?
+1/25/24, 8:52 PM - Hafiz Sharjeel SMIU: 30
+1/25/24, 8:52 PM - Hafiz Sharjeel SMIU: Or tera?
+1/25/24, 8:52 PM - محمد عمر خان: Laptop abh nh h
+1/25/24, 8:52 PM - محمد عمر خان: Total kitna hua?
+1/25/24, 8:52 PM - Hafiz Sharjeel SMIU: 38%
+1/25/24, 8:53 PM - محمد عمر خان: Aba number bta
+1/25/24, 8:54 PM - محمد عمر خان: Total
+1/25/24, 8:54 PM - محمد عمر خان: 100 m sa
+1/25/24, 8:57 PM - Hafiz Sharjeel SMIU: 38 hi update howa he abhi tk
+1/25/24, 8:58 PM - Hafiz Sharjeel SMIU: Mid 30 
+Assignment 08
+1/25/24, 8:59 PM - Hafiz Sharjeel SMIU: Ruk dekh raha
+1/25/24, 8:59 PM - محمد عمر خان: Aba mid 20 number k hota h
+1/25/24, 9:00 PM - Hafiz Sharjeel SMIU: Project 
+Participate
+Or quiz k marks update nahi howe abhi tk
+1/25/24, 9:00 PM - محمد عمر خان: Aba ma kia bol hp too kia bol ra h
+1/25/24, 9:00 PM - Hafiz Sharjeel SMIU: Total 54 aaraha
+1/25/24, 9:01 PM - محمد عمر خان: Hn bss set h
+1/25/24, 9:01 PM - محمد عمر خان: Itna bol ra ho m
+1/25/24, 9:01 PM - Hafiz Sharjeel SMIU: Sorry yr final 30 mid 16
+1/25/24, 9:01 PM - محمد عمر خان: 30/40?
+1/25/24, 9:01 PM - Hafiz Sharjeel SMIU: Yes
+1/25/24, 9:02 PM - محمد عمر خان: You deleted this message
+1/25/24, 9:05 PM - محمد عمر خان: Mara check kr ka bta
+1/25/24, 9:05 PM - محمد عمر خان: CSC-23F-031
+1/25/24, 10:12 PM - Hafiz Sharjeel SMIU: This message was deleted
+1/25/24, 10:14 PM - Hafiz Sharjeel SMIU: Total 46
+Final 30
+Mid 10
+Assignment 06
+1/25/24, 10:15 PM - محمد عمر خان: Mara?
+1/25/24, 10:15 PM - Hafiz Sharjeel SMIU: Hn
+1/25/24, 10:15 PM - محمد عمر خان: Aba itna kam?
+1/25/24, 10:15 PM - Hafiz Sharjeel SMIU: Meko kia pata
+1/25/24, 10:15 PM - محمد عمر خان: 50 cross hojainga?
+1/25/24, 10:15 PM - Hafiz Sharjeel SMIU: Abhi 30 marking hona baqi hd
+1/25/24, 10:16 PM - Hafiz Sharjeel SMIU: He
+1/25/24, 10:16 PM - محمد عمر خان: Insha allah hojaega
+1/25/24, 10:17 PM - Hafiz Sharjeel SMIU: Meko pf ka dr lagraha🥺
+1/25/24, 10:21 PM - محمد عمر خان: <Media omitted>
+2/7/24, 8:34 PM - Hafiz Sharjeel SMIU: Umer bro fees bhardiya? Kaha se bhar raha he apne phone se ya bahar se? Mere pas cash he meko bharna he meko jaga bata me kaha se bharwaon.
+2/7/24, 8:34 PM - Hafiz Sharjeel SMIU: Jo trusted ho.
+2/7/24, 9:06 PM - محمد عمر خان: Aba bhai HBL bank m bhar jaega
+2/7/24, 9:08 PM - Hafiz Sharjeel SMIU: Gaya tha me unho ne bola nts fees nahi bharte hen
+2/8/24, 6:50 AM - محمد عمر خان: Hain?
+2/8/24, 10:12 AM - محمد عمر خان: bhai aik baat bta course enrolment kaisa hogi jo last time sir class m kah rahay tha
+2/8/24, 6:55 PM - Hafiz Sharjeel SMIU: Wo bad me hogi bad me dekh lenge phle hamey fees bharna hoga
+2/8/24, 6:55 PM - Hafiz Sharjeel SMIU: Cr hame bata dega enrollment k bare me
+2/8/24, 9:20 PM - محمد عمر خان: Axa
+2/9/24, 5:14 PM - Hafiz Sharjeel SMIU: Abe wo so raha he 3 din baqi he me yaha dhond dhond  kr parishan hogaya hun nahi karraha koi 1 bill payment
+2/9/24, 5:14 PM - Hafiz Sharjeel SMIU: Tu kia karega koi idea?
+2/9/24, 8:06 PM - محمد عمر خان: Ma HBL ma bharonga
+2/9/24, 8:08 PM - محمد عمر خان: <Media omitted>
+2/9/24, 8:08 PM - محمد عمر خان: HBL ma ho jaega
+2/9/24, 8:12 PM - Hafiz Sharjeel SMIU: Abe bhai me gaya tha wahi to mene bhi use kaha ye bat usne bola 1 bill yaha pay nahi hoti ager aap ka hbl account he to aap apne account se karo warna dosra kahi account he to 1 bill option use karo ya kahi se karwalo jo easypaisa wagera karte hen.
+Mene 1.5 ghanta khuwari ki bank me lekin kaam nahi howa
+2/9/24, 8:14 PM - Hafiz Sharjeel SMIU: Kab lal jumme ko?😑
+2/9/24, 8:15 PM - محمد عمر خان: Aba phr dukan sa kr wa la
+2/9/24, 8:15 PM - Hafiz Sharjeel SMIU: Koi nahi karraha 5 ya 10 hazar nahi he 41k he bhai
+2/9/24, 8:16 PM - Hafiz Sharjeel SMIU: Khud karna parega
+2/9/24, 8:16 PM - Hafiz Sharjeel SMIU: Lekin fees 500 lagega extra hamey😕
+2/9/24, 10:01 PM - محمد عمر خان: <Media omitted>
+2/9/24, 10:49 PM - Hafiz Sharjeel SMIU: Me 11½ hi gaya tha😂
+Hosakta he un logon ne jaan churai ho🤔
+Wese mene apne boss se kaha us ne bola k wo kardega
+2/9/24, 11:15 PM - محمد عمر خان: Hn
+2/10/24, 12:03 AM - محمد عمر خان: M czn k account sa bhr ronga
+2/10/24, 12:05 AM - Hafiz Sharjeel SMIU: Mera bhara gaya🥳
+2/10/24, 12:17 PM - محمد عمر خان: oy 12 ko uni jana hoga?
+2/10/24, 1:12 PM - Hafiz Sharjeel SMIU: Han jana hoga tu aaega is bar me nahi
+2/10/24, 1:12 PM - محمد عمر خان: nh m nh aonga
+2/10/24, 1:16 PM - Hafiz Sharjeel SMIU: Abe oe
+2/10/24, 1:17 PM - Hafiz Sharjeel SMIU: Pichli bar me aaya tha yr uper se 5 din aaya tha
+2/10/24, 1:17 PM - Hafiz Sharjeel SMIU: Me nahi aaonga nikl
+2/10/24, 2:06 PM - محمد عمر خان: <Media omitted>
+2/10/24, 3:09 PM - محمد عمر خان: <Media omitted>
+2/10/24, 3:09 PM - محمد عمر خان: oy mana czn k account sa bhri h
+2/10/24, 4:32 PM - Hafiz Sharjeel SMIU: Sahi
+2/10/24, 4:32 PM - Hafiz Sharjeel SMIU: Monday ko jis time aaega meko time bata dena
+2/10/24, 4:33 PM - محمد عمر خان: <Media omitted>
+2/10/24, 4:34 PM - Hafiz Sharjeel SMIU: This message was deleted
+2/11/24, 6:38 AM - محمد عمر خان: Time kitna bje?
+2/11/24, 1:01 PM - Hafiz Sharjeel SMIU: Tu dekhle or batade apni marzi se me tayyar hojaonga us waqt thora late ho to acha he🙄neend bhi pura hojaega.
+2/11/24, 1:01 PM - Hafiz Sharjeel SMIU: 11 tk aaja ager tujhe sahi lage to.
+2/11/24, 3:11 PM - محمد عمر خان: Asad sa confirm krna
+2/11/24, 4:40 PM - Hafiz Sharjeel SMIU: Acha karta
+2/11/24, 6:36 PM - Hafiz Sharjeel SMIU: <Media omitted>
+2/11/24, 8:02 PM - Hafiz Sharjeel SMIU: Oe stapler le kr aana mera kharab hogaya he. Pichli bar bager stepler k bhaga dia tha phir bahar se karana para tha mujhe.
+2/11/24, 8:36 PM - محمد عمر خان: Application ka kia seen h?
+2/11/24, 8:37 PM - Hafiz Sharjeel SMIU: Mene hand writing kia he
+2/11/24, 8:37 PM - محمد عمر خان: Bhj jaldi
+2/11/24, 8:37 PM - Hafiz Sharjeel SMIU: Kab tk aaega bata de ta k me uth jaon subah or tayyr rahun
+2/11/24, 8:37 PM - Hafiz Sharjeel SMIU: Light nahi he
+2/11/24, 8:37 PM - Hafiz Sharjeel SMIU: Abe asad me bheja he copy kr
+2/11/24, 8:37 PM - محمد عمر خان: Transaction slipkon si?
+2/11/24, 8:38 PM - Hafiz Sharjeel SMIU: jo tune mujhe send kia tha
+2/11/24, 8:38 PM - Hafiz Sharjeel SMIU: Uper
+2/11/24, 8:38 PM - محمد عمر خان: Or fee voucher?
+2/11/24, 8:38 PM - Hafiz Sharjeel SMIU: Abe gadhe wo to tujhe pata he🤬😑
+2/11/24, 8:38 PM - محمد عمر خان: Aba jahil fee voucher kon sa hota h?
+2/11/24, 8:39 PM - محمد عمر خان: <Media omitted>
+2/11/24, 8:39 PM - Hafiz Sharjeel SMIU: Student copy or bank copy rakh le apne pas
+2/11/24, 8:39 PM - محمد عمر خان: Ya hm
+2/11/24, 8:39 PM - Hafiz Sharjeel SMIU: Baqi dede
+2/11/24, 8:39 PM - Hafiz Sharjeel SMIU: hn yahi
+2/11/24, 8:39 PM - Hafiz Sharjeel SMIU: Abe ye itna dark q he
+2/11/24, 8:39 PM - محمد عمر خان: Application bhj jaldi
+2/11/24, 8:39 PM - Hafiz Sharjeel SMIU: Acha
+2/11/24, 8:39 PM - Hafiz Sharjeel SMIU: Oe time bata de
+2/11/24, 8:39 PM - محمد عمر خان: Gadhe andha h?
+2/11/24, 8:40 PM - محمد عمر خان: Aba 10 30
+2/11/24, 8:41 PM - Hafiz Sharjeel SMIU: Thora jaldi nahi he ye?🙄
+2/11/24, 8:41 PM - Hafiz Sharjeel SMIU: <Media omitted>
+2/11/24, 8:42 PM - محمد عمر خان: Aba jahil10 bje ma padha ka aaonga
+2/11/24, 8:43 PM - Hafiz Sharjeel SMIU: Don't forget to bring a stapler.
+2/12/24, 10:30 PM - محمد عمر خان: You deleted this message
+2/18/24, 9:15 PM - محمد عمر خان: Oy
+2/18/24, 9:16 PM - محمد عمر خان: Class k kia seen h?
+2/18/24, 9:23 PM - Hafiz Sharjeel SMIU: Kuch pata nahi he koi news nahi ab tk.
+2/18/24, 9:24 PM - Hafiz Sharjeel SMIU: Na class enroll he. Na timing pata he.
+2/18/24, 10:17 PM - محمد عمر خان: Na result Aya h
+2/19/24, 3:15 PM - محمد عمر خان: <Media omitted>
+2/19/24, 3:16 PM - محمد عمر خان: iska kia seen?
+2/19/24, 3:29 PM - محمد عمر خان: <Media omitted>
+2/19/24, 4:25 PM - Hafiz Sharjeel SMIU: Or timetable filhal aaya nahi he to hamey wait karna hoga na? Abhi jana to nahi he na?
+2/19/24, 4:46 PM - محمد عمر خان: Sham m 5 bje enrollment ka option khul jaega
+2/19/24, 4:46 PM - محمد عمر خان: Ma raar ma course enrollment kronga
+2/19/24, 5:13 PM - Hafiz Sharjeel SMIU: Hn ak baar check bhi karlenge mujhe doubt he.
+2/19/24, 5:21 PM - Hafiz Sharjeel SMIU: <Media omitted>
+2/19/24, 9:25 PM - Hafiz Sharjeel SMIU: Ab hamey 4 din uni jana he😫week me
+2/19/24, 9:45 PM - محمد عمر خان: Aba Friday ko aik hi class h yar
+2/19/24, 9:45 PM - محمد عمر خان: Kal jana h kia ?
+2/19/24, 10:04 PM - Hafiz Sharjeel SMIU: Nahi kl nahi jate
+2/19/24, 10:04 PM - محمد عمر خان: Keon?
+2/19/24, 10:07 PM - Hafiz Sharjeel SMIU: Parso se chalte hen
+2/19/24, 10:07 PM - Hafiz Sharjeel SMIU: Tery hi bari he beta tera petrol bacha raha hun
+2/19/24, 10:08 PM - Hafiz Sharjeel SMIU: Friday ko 1 se 4 or 4 se 5 he
+2/19/24, 10:15 PM - Hafiz Sharjeel SMIU: Abe pura hafta jana he weekend chor kr😳
+2/19/24, 10:18 PM - Hafiz Sharjeel SMIU: Petrol to bhot lagega hamara 🥺
+2/19/24, 10:19 PM - محمد عمر خان: Wednesday ko nh jana h
+2/19/24, 10:21 PM - Hafiz Sharjeel SMIU: Q
+2/19/24, 10:21 PM - محمد عمر خان: Shi bola
+2/19/24, 10:22 PM - محمد عمر خان: Hm too gye
+2/19/24, 10:23 PM - Hafiz Sharjeel SMIU: 5 din?
+2/19/24, 10:23 PM - Hafiz Sharjeel SMIU: Jana hoga na?
+2/19/24, 10:23 PM - محمد عمر خان: Hn yr
+2/19/24, 10:24 PM - محمد عمر خان: Kal chalta hain
+2/19/24, 10:24 PM - Hafiz Sharjeel SMIU: Abeyr in logon ne ye kia kardia bilkul bekaar schedule he
+2/19/24, 10:24 PM - محمد عمر خان: Attendance ka seen hoga
+2/19/24, 10:24 PM - محمد عمر خان: Hn
+2/19/24, 10:24 PM - Hafiz Sharjeel SMIU: Enroll karlia?
+2/19/24, 10:24 PM - محمد عمر خان: Nh
+2/19/24, 10:24 PM - Hafiz Sharjeel SMIU: Pata nahi first day to nahi hota wese
+2/19/24, 10:24 PM - محمد عمر خان: Hn shi
+2/19/24, 10:24 PM - محمد عمر خان: Parso
+2/19/24, 10:25 PM - Hafiz Sharjeel SMIU: Enroll kia?
+2/19/24, 10:26 PM - محمد عمر خان: .
+2/19/24, 10:26 PM - Hafiz Sharjeel SMIU: Karen abhi
+2/20/24, 7:08 PM - Hafiz Sharjeel SMIU: Oe mera CSC203 database enroll nahi horaha
+2/20/24, 8:13 PM - محمد عمر خان: Mana anh tuk kia hi nh
+2/20/24, 8:13 PM - Hafiz Sharjeel SMIU: To kab karega laal jumme ko?
+2/20/24, 8:14 PM - محمد عمر خان: Aba 1 month k time hota h
+2/20/24, 8:14 PM - Hafiz Sharjeel SMIU: Sahi
+2/20/24, 9:07 PM - محمد عمر خان: Ou
+2/20/24, 9:07 PM - محمد عمر خان: Course code bhj taka enroll kron
+2/20/24, 9:07 PM - Hafiz Sharjeel SMIU: This message was deleted
+2/20/24, 9:08 PM - محمد عمر خان: Bhj
+2/20/24, 9:08 PM - Hafiz Sharjeel SMIU: Tune hi bhejta tha
+2/20/24, 9:08 PM - Hafiz Sharjeel SMIU: <Media omitted>
+2/20/24, 9:08 PM - محمد عمر خان: Ya h ?
+2/20/24, 9:08 PM - Hafiz Sharjeel SMIU: Hn
+2/20/24, 9:09 PM - محمد عمر خان: Pakka?
+2/20/24, 9:09 PM - Hafiz Sharjeel SMIU: Abe han na
+2/20/24, 9:09 PM - محمد عمر خان: ?
+2/20/24, 9:09 PM - Hafiz Sharjeel SMIU: Ye wala nahi he
+2/20/24, 9:09 PM - محمد عمر خان: Axa
+2/20/24, 11:31 PM - محمد عمر خان: Oy
+2/20/24, 11:31 PM - محمد عمر خان: Result agya h?
+2/20/24, 11:32 PM - Hafiz Sharjeel SMIU: Ni
+2/21/24, 10:43 AM - محمد عمر خان: oy
+2/21/24, 10:43 AM - محمد عمر خان: <Media omitted>
+2/21/24, 1:02 PM - Hafiz Sharjeel SMIU: Sab ka yahi aaraha he thand rakh
+2/21/24, 1:47 PM - محمد عمر خان: <Media omitted>
+2/21/24, 7:19 PM - Hafiz Sharjeel SMIU: Kl aajana 11 baje
+2/23/24, 4:15 AM - Hafiz Sharjeel SMIU: Aaj 12 baje aana he.
+2/23/24, 6:40 AM - محمد عمر خان: Ana h ?
+2/23/24, 11:21 AM - Hafiz Sharjeel SMIU: G bro
+2/24/24, 10:36 AM - محمد عمر خان: You deleted this message
+2/24/24, 10:36 AM - محمد عمر خان: You deleted this message
+2/25/24, 1:01 PM - Hafiz Sharjeel SMIU: Oe kl chutti he na q k govt ne ilaan kia he aam qatil ka
+2/25/24, 1:02 PM - Hafiz Sharjeel SMIU: I mean *aam tatil* ka🙄
+2/25/24, 1:06 PM - محمد عمر خان: CR sa pooch
+2/25/24, 1:06 PM - Hafiz Sharjeel SMIU: This message was deleted
+2/25/24, 1:13 PM - Hafiz Sharjeel SMIU: Keh raha he confirm karke batata hun
+2/25/24, 1:14 PM - محمد عمر خان: Hnphr dakhainga
+2/25/24, 4:53 PM - محمد عمر خان: Oy
+2/25/24, 4:53 PM - محمد عمر خان: Database jo enroll nh hora h uska kia krna h?
+2/25/24, 4:53 PM - Hafiz Sharjeel SMIU: Abe cr nalla he kisi kaam ma nahi he
+2/25/24, 4:53 PM - Hafiz Sharjeel SMIU: Hojaega chor de abhi
+2/25/24, 4:54 PM - محمد عمر خان: Aba oo date nkl gae to
+2/25/24, 4:56 PM - Hafiz Sharjeel SMIU: Nahi un logo ne kaha k ham sort kardenge tension nahi lene
+2/25/24, 5:01 PM - Hafiz Sharjeel SMIU: Chal beta kl aaonga 11 baje uni chalenge😂
+2/25/24, 5:01 PM - محمد عمر خان: Aba
+2/25/24, 5:01 PM - Hafiz Sharjeel SMIU: Sojana raat me jaldi jaagna nahi
+2/25/24, 5:02 PM - محمد عمر خان: Aba kal too off hona chahya n
+2/25/24, 5:02 PM - Hafiz Sharjeel SMIU: Wahi to. abhi tk officially announce nahi howa he to isi lie sab keh rahe hen k off nahi he <This message was edited>
+2/25/24, 5:04 PM - محمد عمر خان: Hn daikhtai ha
+2/25/24, 5:05 PM - Hafiz Sharjeel SMIU: Ab kia news aaega 5 to bach gaya
+2/25/24, 5:06 PM - محمد عمر خان: Axa
+2/25/24, 5:09 PM - Hafiz Sharjeel SMIU: Ruk chuchundar ko sms kia he wo sahi bataega
+2/25/24, 5:59 PM - محمد عمر خان: <Media omitted>
+2/25/24, 7:53 PM - محمد عمر خان: See you tomorrow.
+2/25/24, 7:55 PM - Hafiz Sharjeel SMIU: Yes🥲
+2/25/24, 7:55 PM - Hafiz Sharjeel SMIU: Me jara sone
+2/25/24, 7:56 PM - Hafiz Sharjeel SMIU: "Aaiyen" hogaya hamare saath🥲
+2/25/24, 9:12 PM - محمد عمر خان: <Media omitted>
+2/25/24, 9:13 PM - محمد عمر خان: <Media omitted>
+2/26/24, 12:23 AM - Hafiz Sharjeel SMIU: Abe chup tery bari hogi to chalenge abhi chup chap beth <This message was edited>
+2/26/24, 6:43 AM - محمد عمر خان: Aba to bol ra tha us din
+2/27/24, 6:17 PM - Hafiz Sharjeel SMIU: Yo yo
+Kl or parso off uni ka😎Allah is always with us.
+2/27/24, 6:25 PM - محمد عمر خان: <Media omitted>
+2/28/24, 12:24 PM - محمد عمر خان: Oy
+2/28/24, 12:24 PM - محمد عمر خان: Enrollment k kia seen h?
+2/28/24, 12:34 PM - Hafiz Sharjeel SMIU: Kuch nahi abhi khao pio ash karo
+3/1/24, 1:52 AM - Hafiz Sharjeel SMIU: Kl bhi off hogaya nacho
+3/1/24, 1:53 AM - Hafiz Sharjeel SMIU: Agla week tera he phir mera he🥹
+3/1/24, 6:28 AM - محمد عمر خان: <Media omitted>
+3/1/24, 9:26 PM - محمد عمر خان: <Media omitted>
+3/1/24, 9:28 PM - Hafiz Sharjeel SMIU: Mera bhi abe ye 3 he practical he ak dekh
+3/1/24, 9:28 PM - محمد عمر خان: aba lab ko laka 6 hoga na
+3/1/24, 9:28 PM - محمد عمر خان: 4 ara h
+3/1/24, 9:28 PM - Hafiz Sharjeel SMIU: Hn
+3/1/24, 9:29 PM - Hafiz Sharjeel SMIU: Hn
+3/1/24, 9:29 PM - محمد عمر خان: aik logic wala or iska lab baqi h bss
+3/1/24, 9:29 PM - Hafiz Sharjeel SMIU: Hn
+3/1/24, 9:29 PM - محمد عمر خان: abh koi update aai ha>?
+3/1/24, 9:29 PM - محمد عمر خان: course code.....
+3/1/24, 9:29 PM - Hafiz Sharjeel SMIU: Hn next week tim pr aajana😆
+3/1/24, 9:30 PM - Hafiz Sharjeel SMIU: Time
+3/1/24, 9:30 PM - محمد عمر خان: aba uska chor too course ka ta
+3/1/24, 9:30 PM - محمد عمر خان: bta
+3/1/24, 9:30 PM - Hafiz Sharjeel SMIU: Nahi he yr
+3/1/24, 9:30 PM - محمد عمر خان: bss set
+3/1/24, 9:30 PM - Hafiz Sharjeel SMIU: Ash kr weekend
+3/6/24, 2:55 PM - محمد عمر خان: I’m a student from Pakistan and want to learn this course. I think it will be beneficial for my thesis work. But I’ve no job of my own to carry the expanses to pay for the certificate of this course. In this circumstance, it is very much difficult for me to gather such amount of money for the certificate. Financial Aid will help me take this course without any adverse impact on my monthly essential needs. In my situation, I am in need of financial assistance. I want to take this course as I want to learn this course. I want to complete this course: Customer Needs. This Course will boost my job prospects after graduation from my institute. It will help perform better in carrying out this course and give me an edge over my competitors. A verified certificate will attach credibility to the certificate I receive from this course. I plan to complete all assignments on or before time as I have done in previous Signature Track Courses. Also I intend to participate in Discussion Forums, which I have found to supplement my learning immensely in the other online courses I have taken on Coursera. I also plan to grade assignments which are to peer reviewed which I believe will an invaluable learning opportunity.
+3/7/24, 12:55 AM - محمد عمر خان: <Media omitted>
+3/7/24, 12:57 AM - محمد عمر خان: Oy nadra ki government job aai hui h kal test h inka MA jinnah road p or kal last date bh h ma kal jara ho dost k sath test dana tujhe dana h test too chal
+3/7/24, 12:58 AM - محمد عمر خان: 8 30 bje subha, west walo k kal h, domicile, prc karachi west k hona chahya
+3/7/24, 1:25 AM - Hafiz Sharjeel SMIU: Oe phir uni ka kia hoga
+3/7/24, 1:28 AM - Hafiz Sharjeel SMIU: Chal thik he aajana
+3/7/24, 1:52 AM - Hafiz Sharjeel SMIU: 8:30 pr
+3/7/24, 2:08 AM - Hafiz Sharjeel SMIU: Wahi se uni le jana
+3/7/24, 6:38 AM - محمد عمر خان: Aba bhai 8 30 p shoro h
+3/7/24, 6:38 AM - محمد عمر خان: 7 bje m nkl ra ho ghr sa
+3/7/24, 6:39 AM - محمد عمر خان: null
+3/7/24, 6:40 AM - محمد عمر خان: null
+3/7/24, 6:44 AM - محمد عمر خان: So gya?
+3/7/24, 6:46 AM - محمد عمر خان: Aba too sogya m dost k sath jara ab, agar ghr jaldi pohoch gya too uni chalainga warna....
+3/7/24, 6:46 AM - محمد عمر خان: null
+3/7/24, 7:51 AM - Hafiz Sharjeel SMIU: null
+3/7/24, 7:53 AM - Hafiz Sharjeel SMIU: Chal thik ghar phonch kr meko mobile wale number pr call kr phle
+3/7/24, 7:55 AM - Hafiz Sharjeel SMIU: Yr phle batana tha na k 7 baje niklega
+3/7/24, 7:56 AM - Hafiz Sharjeel SMIU: Uni jane se aadhe ghante phle call kr meko
+3/7/24, 1:14 PM - محمد عمر خان: Aba tujhe ya bhja tha na
+3/7/24, 1:21 PM - Hafiz Sharjeel SMIU: null
+3/7/24, 4:58 PM - Hafiz Sharjeel SMIU: <Media omitted>
+3/7/24, 4:58 PM - محمد عمر خان: <Media omitted>
+3/7/24, 9:08 PM - محمد عمر خان: Tomorrow's OOP class is cancelled. Extra class will be held next week.
+3/7/24, 9:08 PM - محمد عمر خان: aaaish kr
+3/7/24, 9:08 PM - Hafiz Sharjeel SMIU: Hmm bachat hogaya tera
+3/7/24, 9:08 PM - Hafiz Sharjeel SMIU: Ja tujhe maaf kia😂
+3/7/24, 9:09 PM - محمد عمر خان: bawafa
+3/10/24, 1:11 PM - Hafiz Sharjeel SMIU: Kl 8 baje chalenge neend kharab karke or shaam me khuwar ho kr 5:30 aaenge😂
+3/10/24, 1:12 PM - محمد عمر خان: Keon?
+3/10/24, 1:12 PM - Hafiz Sharjeel SMIU: Tumetable aaya he dekh
+3/10/24, 1:12 PM - Hafiz Sharjeel SMIU: Kl lab he java ka 9 se 10
+3/10/24, 1:12 PM - محمد عمر خان: Bhj
+3/10/24, 1:14 PM - Hafiz Sharjeel SMIU: <Media omitted>
+3/10/24, 1:15 PM - محمد عمر خان: Week m 4 din jana h ?
+3/10/24, 1:16 PM - Hafiz Sharjeel SMIU: Nahi😂
+3/10/24, 1:16 PM - Hafiz Sharjeel SMIU: Friday wala jo 4 se 5 tha wo utha kr 9 se 10 kardia Monday wale din
+3/10/24, 1:20 PM - محمد عمر خان: Hn too phr friday ko nh hogina class
+3/10/24, 1:22 PM - Hafiz Sharjeel SMIU: Abe friday ko theory hoga or monday ko practical😂 <This message was edited>
+3/10/24, 3:53 PM - محمد عمر خان: Aba ya kia yr
+3/12/24, 11:41 PM - محمد عمر خان: Oy
+3/12/24, 11:41 PM - محمد عمر خان: Kal kitna bje aiga
+3/12/24, 11:42 PM - Hafiz Sharjeel SMIU: 1 baje class he 12 baje aonga
+3/12/24, 11:43 PM - محمد عمر خان: Ok
+3/16/24, 12:31 AM - محمد عمر خان: <Media omitted>
+3/16/24, 12:31 AM - محمد عمر خان: https://forms.saylaniwelfare.com/en
+3/16/24, 12:32 AM - Hafiz Sharjeel SMIU: Kash me karpata🥺
+3/16/24, 5:15 AM - محمد عمر خان: Chal koi nh yar
+3/18/24, 12:25 AM - Hafiz Sharjeel SMIU: Aaj 8 baje aana he. Ager bhula to sar phar dunga.😑
+3/18/24, 5:06 AM - محمد عمر خان: <Media omitted>
+3/18/24, 5:32 PM - Hafiz Sharjeel SMIU: Kl 12:15 pr aana he. Class 1:15 pr he.
+3/18/24, 6:26 PM - محمد عمر خان: Ok
+3/19/24, 7:15 PM - محمد عمر خان: O6
+3/19/24, 7:15 PM - محمد عمر خان: Enrollment kia seen h bhai
+3/19/24, 8:20 PM - Hafiz Sharjeel SMIU: Nahi horaha
+3/20/24, 12:03 PM - Hafiz Sharjeel SMIU: Oe aaj 12 baje aana tha bhula to nahi he na🤨
+3/20/24, 12:07 PM - Hafiz Sharjeel SMIU: null
+3/20/24, 1:22 PM - محمد عمر خان: null
+3/20/24, 11:41 PM - محمد عمر خان: Kal class kb h
+3/21/24, 12:13 AM - Hafiz Sharjeel SMIU: 10:30
+3/21/24, 4:36 AM - Hafiz Sharjeel SMIU: 9:30 pr aana
+3/21/24, 5:19 AM - محمد عمر خان: <Media omitted>
+3/21/24, 8:33 PM - Hafiz Sharjeel SMIU: Oe kl 12 baje aana take namaz parhlen ham phonch kr
+3/21/24, 8:35 PM - محمد عمر خان: <Media omitted>
+3/22/24, 5:50 PM - محمد عمر خان: https://drive.google.com/drive/folders/1H1W1Q7ruiq3mKlnaG0hAcDwRn9hGV74J
+3/22/24, 6:41 PM - محمد عمر خان: Jald sa jald amazon wala khatam kr
+3/22/24, 7:06 PM - Hafiz Sharjeel SMIU: Hn thora sabr rakh jaldi ka kaam shetaan ka hota he😅
+3/22/24, 8:19 PM - محمد عمر خان: <Media omitted>
+3/22/24, 10:34 PM - Hafiz Sharjeel SMIU: Oe ye download nahi horaha balke drive me open horaha he ak kaam karna ager tere pas he to meko zip me dalke bhejna
+3/22/24, 10:36 PM - Hafiz Sharjeel SMIU: <Media omitted>
+3/22/24, 11:30 PM - محمد عمر خان: Prank hogya
+3/22/24, 11:30 PM - محمد عمر خان: Aba drive m open kr ka download kr
+3/23/24, 12:13 PM - محمد عمر خان: <Media omitted>
+3/23/24, 8:11 PM - محمد عمر خان: <Media omitted>
+3/23/24, 9:42 PM - Hafiz Sharjeel SMIU: Pata nahi yr mera to sief theory howa he
+3/23/24, 11:38 PM - محمد عمر خان: Aba jaldi kr 23 last date h
+3/23/24, 11:41 PM - Hafiz Sharjeel SMIU: Nahi horaha
+3/23/24, 11:41 PM - Hafiz Sharjeel SMIU: Likha aarah time has been passed
+3/23/24, 11:41 PM - Hafiz Sharjeel SMIU: Tera hogaya?
+3/23/24, 11:41 PM - محمد عمر خان: Hn n
+3/23/24, 11:42 PM - Hafiz Sharjeel SMIU: Mera nahi horaha
+3/23/24, 11:42 PM - محمد عمر خان: Too pagal h kia?
+3/23/24, 11:42 PM - Hafiz Sharjeel SMIU: Abe nahi horaha bhai mene kia
+3/23/24, 11:42 PM - محمد عمر خان: Kab kia?
+3/23/24, 11:42 PM - Hafiz Sharjeel SMIU: Tere ss bhejne k bad
+3/23/24, 11:43 PM - محمد عمر خان: Ussa pahla kia kra tha
+3/23/24, 11:43 PM - Hafiz Sharjeel SMIU: Mujhe kia pata band hojaega
+3/23/24, 11:43 PM - محمد عمر خان: Group m mssg bh aya tha charya
+3/23/24, 11:43 PM - Hafiz Sharjeel SMIU: Bola 23 last he
+3/23/24, 11:44 PM - محمد عمر خان: Hn to too 12 bje krna baitha ga
+3/23/24, 11:44 PM - محمد عمر خان: Or mssg 2 din pahla k h
+3/23/24, 11:44 PM - Hafiz Sharjeel SMIU: Tune kab kia tha?
+3/23/24, 11:45 PM - محمد عمر خان: Subha
+3/23/24, 11:45 PM - Hafiz Sharjeel SMIU: Shit
+3/23/24, 11:45 PM - محمد عمر خان: Azeem ko mssg kr
+3/23/24, 11:45 PM - Hafiz Sharjeel SMIU: Hn kia tha bola bhot saron ka issue he ye
+3/23/24, 11:45 PM - محمد عمر خان: Aba mara hogya hasan k bh hogya
+3/23/24, 11:46 PM - Hafiz Sharjeel SMIU: <Media omitted>
+3/23/24, 11:46 PM - Hafiz Sharjeel SMIU: Me to gaya🥺
+3/23/24, 11:46 PM - محمد عمر خان: Hn bss set h
+3/23/24, 11:46 PM - محمد عمر خان: Too akaila nh h
+3/23/24, 11:46 PM - محمد عمر خان: Mara dld bh bqi h
+3/23/24, 11:46 PM - Hafiz Sharjeel SMIU: Kash tu bhi saath hota😅🙄
+3/23/24, 11:47 PM - محمد عمر خان: Shub shub bol
+3/23/24, 11:47 PM - Hafiz Sharjeel SMIU: Saath nibhana saathiya😅😂
+3/23/24, 11:47 PM - محمد عمر خان: Aba holywood wala customer p daihan da
+3/23/24, 11:48 PM - Hafiz Sharjeel SMIU: Abe sala download hi nahi horaha
+3/23/24, 11:48 PM - Hafiz Sharjeel SMIU: <Media omitted>
+3/23/24, 11:48 PM - محمد عمر خان: Kia?
+3/23/24, 11:48 PM - Hafiz Sharjeel SMIU: Ye aaraha
+3/23/24, 11:48 PM - Hafiz Sharjeel SMIU: Zip bhi nahi horaha download
+3/23/24, 11:48 PM - محمد عمر خان: Ya bh nh
+3/23/24, 11:49 PM - Hafiz Sharjeel SMIU: Ni
+3/23/24, 11:49 PM - محمد عمر خان: Aba WhatsApp web khul phr kr
+3/23/24, 11:50 PM - Hafiz Sharjeel SMIU: Pc me?
+3/23/24, 11:50 PM - محمد عمر خان: Hn
+3/23/24, 11:50 PM - Hafiz Sharjeel SMIU: Ok
+3/23/24, 11:50 PM - محمد عمر خان: Ya m tujhe subha laptop sa krna k bta ta ho
+3/23/24, 11:50 PM - محمد عمر خان: Pahla ya try kr
+3/23/24, 11:51 PM - Hafiz Sharjeel SMIU: Ok
+3/24/24, 12:09 PM - محمد عمر خان: <Media omitted>
+3/24/24, 12:13 PM - Hafiz Sharjeel SMIU: Sahi sahi me bhi pc me kholta.
+3/24/24, 12:52 PM - Hafiz Sharjeel SMIU: <Media omitted>
+3/24/24, 12:52 PM - Hafiz Sharjeel SMIU: <Media omitted>
+3/24/24, 12:52 PM - Hafiz Sharjeel SMIU: 🤷🏻‍♂️
+3/24/24, 1:00 PM - محمد عمر خان: Toona form bharta hua koi na koi bhand mara hoga
+3/24/24, 1:01 PM - محمد عمر خان: Warna financial aid kabh bh pausa nh mangta
+3/24/24, 8:56 PM - محمد عمر خان: oy
+3/24/24, 8:57 PM - محمد عمر خان: <Media omitted>
+3/24/24, 11:30 PM - محمد عمر خان: Bol n ba
+3/24/24, 11:30 PM - Hafiz Sharjeel SMIU: Abe likhle page pr
+3/24/24, 11:30 PM - Hafiz Sharjeel SMIU: Me print nahi karwaya
+3/24/24, 11:31 PM - محمد عمر خان: Hn too kia kia?
+3/24/24, 11:31 PM - Hafiz Sharjeel SMIU: Me daste k page pr question or us ka answer likh dia
+3/24/24, 11:31 PM - محمد عمر خان: Pic bhj
+3/24/24, 11:32 PM - Hafiz Sharjeel SMIU: Uper heading dal dia lab manual
+3/24/24, 11:32 PM - Hafiz Sharjeel SMIU: Abhi karraha hun
+3/24/24, 11:32 PM - محمد عمر خان: Kr ka picture bhj dana
+3/24/24, 11:32 PM - Hafiz Sharjeel SMIU: Ak page howa he
+3/24/24, 11:32 PM - محمد عمر خان: Bhootni k pic bhjna bhulna mut warna .....
+3/24/24, 11:32 PM - Hafiz Sharjeel SMIU: <Media omitted>
+3/24/24, 11:32 PM - Hafiz Sharjeel SMIU: Pura nahi karunga baqi kl karunga
+3/24/24, 11:33 PM - محمد عمر خان: Aba kr na abh
+3/24/24, 11:34 PM - Hafiz Sharjeel SMIU: Abe oe me or koi kaam nahi karun me abhi khana khaonga or cartoon dekhunga🥱
+3/24/24, 11:34 PM - محمد عمر خان: Aba chomo
+3/24/24, 11:34 PM - Hafiz Sharjeel SMIU: Abhi shopping se aaya hun🤗
+3/25/24, 4:58 AM - محمد عمر خان: Oy krka pic bhjna
+3/25/24, 8:25 PM - Hafiz Sharjeel SMIU: Multivariable calculus 1:15 to 2:45
+3/27/24, 6:40 PM - Hafiz Sharjeel SMIU: Pi is a new digital currency developed by Stanford PhDs, with over 47 million members worldwide. To claim your Pi, follow this link https://minepi.com/1234leejrahs and use my username (1234leejrahs) as your invitation code.
+3/27/24, 6:41 PM - Hafiz Sharjeel SMIU: 1234leejrahs
+
+Ise refferal me dalna 1 pi free milega tujhe
+3/27/24, 6:41 PM - محمد عمر خان: Vpn laga ka kro
+3/27/24, 6:41 PM - Hafiz Sharjeel SMIU: Nahi yr direct kr
+3/27/24, 6:41 PM - محمد عمر خان: <Media omitted>
+3/27/24, 6:42 PM - Hafiz Sharjeel SMIU: To playstore se download kar
+3/27/24, 6:42 PM - محمد عمر خان: App?
+3/27/24, 6:42 PM - Hafiz Sharjeel SMIU: Pi network app
+3/27/24, 6:43 PM - Hafiz Sharjeel SMIU: Or refferal code me ye daldena
+3/27/24, 6:43 PM - Hafiz Sharjeel SMIU: 1234leejrahs
+3/27/24, 6:44 PM - محمد عمر خان: Chal nkl
+3/27/24, 6:45 PM - Hafiz Sharjeel SMIU: Tery marzi yaha saaf saaf likha he get 1 pi free use this code😒
+3/27/24, 7:19 PM - محمد عمر خان: Ab mining kasa kro
+3/27/24, 8:21 PM - Hafiz Sharjeel SMIU: Screen pr dekh right hand ki tarf 0.1tr likha aaraha hoga us pr click kar.
+3/27/24, 8:21 PM - Hafiz Sharjeel SMIU: Phir wo green hojaega or uper number +
+hota dikhega
+3/27/24, 8:23 PM - محمد عمر خان: <Media omitted>
+3/27/24, 8:23 PM - محمد عمر خان: Aga
+3/27/24, 8:24 PM - محمد عمر خان: ?
+3/27/24, 8:24 PM - Hafiz Sharjeel SMIU: Sahi he
+3/27/24, 8:25 PM - محمد عمر خان: Ab kia?
+3/27/24, 8:27 PM - Hafiz Sharjeel SMIU: Hone de ab
+3/27/24, 8:38 PM - Hafiz Sharjeel SMIU: Kl jaega uni?
+3/27/24, 9:20 PM - محمد عمر خان: Whi soch ra ho
+3/27/24, 9:23 PM - Hafiz Sharjeel SMIU: Soch le ak bar chale gae to wapas nahi aaenge.
+3/27/24, 9:23 PM - Hafiz Sharjeel SMIU: I mean class khatam hone se phle.🙄
+3/27/24, 9:39 PM - محمد عمر خان: Aba han yar
+3/28/24, 4:18 AM - Hafiz Sharjeel SMIU: Aaj subah mere uthne se phle bata warna me tujhe chor kr chala jaonga.
+3/28/24, 4:27 AM - Hafiz Sharjeel SMIU: <Media omitted>
+3/28/24, 5:52 AM - محمد عمر خان: Oy
+3/28/24, 5:52 AM - محمد عمر خان: Ma nh jaonga magar mara assignment jama kr da
+3/28/24, 5:52 AM - محمد عمر خان: 2 sawal ha aik page m likha ka jama kra dena
+3/28/24, 1:45 PM - محمد عمر خان: Oy
+3/28/24, 1:45 PM - محمد عمر خان: Hua quiz?
+3/28/24, 1:46 PM - Hafiz Sharjeel SMIU: Shukar tu nh aya
+3/28/24, 1:46 PM - محمد عمر خان: Keon?
+3/28/24, 1:46 PM - Hafiz Sharjeel SMIU: <Media omitted>
+3/28/24, 1:52 PM - محمد عمر خان: Aba kia bol ra ha
+3/28/24, 1:53 PM - Hafiz Sharjeel SMIU: Jo tm na suna
+3/28/24, 1:53 PM - Hafiz Sharjeel SMIU: <Media omitted>
+3/28/24, 2:03 PM - محمد عمر خان: Aba ahil sharjeel ka speaker shi nh h
+3/28/24, 8:44 PM - Hafiz Sharjeel SMIU: Kl jana he ya phirrrrrr?🙄 <This message was edited>
+3/28/24, 8:52 PM - محمد عمر خان: Hn na
+3/28/24, 8:52 PM - Hafiz Sharjeel SMIU: Acha
+3/29/24, 11:14 AM - محمد عمر خان: Oy
+3/29/24, 11:14 AM - محمد عمر خان: 12 tuk ana
+3/29/24, 11:15 AM - Hafiz Sharjeel SMIU: Q
+3/29/24, 11:16 AM - محمد عمر خان: Aba  aj jumma
+3/29/24, 11:17 AM - Hafiz Sharjeel SMIU: Oo acha acha sahi meko to pata nahi tha aapne ihsaan kardia bhot bhot shukuria per dabaon aap ka? Kuch la kar don khidmat karun?
+3/29/24, 11:19 AM - محمد عمر خان: bss nha lena aj
+3/31/24, 7:26 PM - Hafiz Sharjeel SMIU: Oe kl time pr aajana tune kaha kl catwalk ka class nahi lenge to 9:30 aajana kl ACP ka quiz he.
+3/31/24, 7:27 PM - محمد عمر خان: Subha 9 bje wali class nh laga?
+3/31/24, 7:27 PM - Hafiz Sharjeel SMIU: Tu lega?
+3/31/24, 7:28 PM - Hafiz Sharjeel SMIU: Tune hi kaha tha class he
+3/31/24, 7:28 PM - Hafiz Sharjeel SMIU: Silani ka
+3/31/24, 7:28 PM - محمد عمر خان: Mari 1st ko meeting h
+3/31/24, 7:29 PM - محمد عمر خان: Tuesday ko
+3/31/24, 7:31 PM - Hafiz Sharjeel SMIU: To bata kia karna he chalna he subah?
+3/31/24, 7:32 PM - محمد عمر خان: hn
+3/31/24, 7:32 PM - محمد عمر خان: 8 bje aonga
+3/31/24, 7:32 PM - Hafiz Sharjeel SMIU: Ok
+4/1/24, 5:07 AM - Hafiz Sharjeel SMIU: Oe kl catwalk ka class nahi lete. Jesa k tujhe pata he mera accident howa he me chal bhi nahi paraha to thora rest karleta sirf ACP ka lete quiz dedenge or naa hi OOP ka extra class lenge kia bolta?
+4/1/24, 1:06 PM - Hafiz Sharjeel SMIU: <Media omitted>
+4/2/24, 4:58 AM - محمد عمر خان: Oy
+4/2/24, 4:58 AM - محمد عمر خان: Class kab h
+4/2/24, 12:02 PM - Hafiz Sharjeel SMIU: 1:15 pr he
+4/2/24, 12:23 PM - Hafiz Sharjeel SMIU: Mar gaya kia?
+4/2/24, 12:23 PM - Hafiz Sharjeel SMIU: null
+4/3/24, 6:03 PM - محمد عمر خان: <Media omitted>
+4/3/24, 6:03 PM - محمد عمر خان: mar ja
+4/3/24, 6:24 PM - Hafiz Sharjeel SMIU: Tu bhi aaegaaaa ham khuwar hone jaaennge😅
+4/3/24, 6:35 PM - محمد عمر خان: Ghark hoja
+4/4/24, 12:12 PM - Hafiz Sharjeel SMIU: Kl jana he ya tulla marna he? make your choice.
+4/4/24, 12:42 PM - محمد عمر خان: Kia boltaha?
+4/4/24, 3:06 PM - Hafiz Sharjeel SMIU: Kl jaega ya nahi jaega tery marzi he. meko bata de.
+4/4/24, 3:11 PM - محمد عمر خان: Ma nh jaonga to to jaega?
+4/4/24, 3:11 PM - Hafiz Sharjeel SMIU: Ni
+4/4/24, 3:11 PM - محمد عمر خان: Too rat tuk btata ho
+4/4/24, 3:12 PM - Hafiz Sharjeel SMIU: Ok
+4/4/24, 3:12 PM - محمد عمر خان: Ab mar ja
+4/4/24, 3:12 PM - Hafiz Sharjeel SMIU: Tu mr
+4/4/24, 3:13 PM - محمد عمر خان: Nh tpo mur
+4/4/24, 3:15 PM - Hafiz Sharjeel SMIU: Abe jaaanaaaaaa😒nikl
+4/4/24, 3:19 PM - محمد عمر خان: <Media omitted>
+4/4/24, 9:37 PM - Hafiz Sharjeel SMIU: Jaega ya nahi bak?
+4/4/24, 10:53 PM - Hafiz Sharjeel SMIU: Bhonko na????
+4/4/24, 11:21 PM - محمد عمر خان: Bhao bhao
+4/4/24, 11:57 PM - Hafiz Sharjeel SMIU: 🤦🏻‍♂️kab bara hoga yrr
+4/5/24, 12:11 AM - محمد عمر خان: Aba chalta hai akhri class h
+4/5/24, 12:15 AM - Hafiz Sharjeel SMIU: Marzi tery bad me ye nahi bolna tera 2 tha mera 4 tha
+4/5/24, 12:17 AM - Hafiz Sharjeel SMIU: I gave you the chance to maintain class per week for both of us.
+Q k next week shayad monday or Tuesday class ho to mera sirf 2 din aaega ager nahi to next k next week phir mera pura 5 days hoga <This message was edited>
+4/5/24, 4:54 AM - محمد عمر خان: Aba tum chomo hamasha rona dhona lrta rha kro
+4/5/24, 11:17 AM - Hafiz Sharjeel SMIU: Mil tu sirf batata hun tujhe me
+4/5/24, 11:18 AM - محمد عمر خان: <Media omitted>
+4/5/24, 12:02 PM - Hafiz Sharjeel SMIU: Mera dil ye phukare aajaaaaaa.
+4/5/24, 12:07 PM - Hafiz Sharjeel SMIU: Aa bhi ja
+4/5/24, 8:27 PM - Hafiz Sharjeel SMIU: <Media omitted>
+4/5/24, 8:27 PM - Hafiz Sharjeel SMIU: <Media omitted>
+4/5/24, 8:27 PM - Hafiz Sharjeel SMIU: Catwalk ne bhi cancel kardia class
+4/5/24, 8:29 PM - Hafiz Sharjeel SMIU: Eid bad  chalenge pura week mera.
+4/5/24, 9:22 PM - محمد عمر خان: Pakka na Monday ko nh hoga
+4/5/24, 9:22 PM - محمد عمر خان: ?
+4/5/24, 9:24 PM - Hafiz Sharjeel SMIU: Abe sir ne khud kaha he
+4/5/24, 9:24 PM - محمد عمر خان: Kidhr?
+4/5/24, 9:24 PM - Hafiz Sharjeel SMIU: Abe gadhe mark kia he or kaha eid enjoy karo
+4/5/24, 9:24 PM - محمد عمر خان: Aba wo asad k mssg h
+4/5/24, 9:24 PM - محمد عمر خان: Sir k thodi h
+4/5/24, 9:25 PM - Hafiz Sharjeel SMIU: Asad ne message kia sir ne react kia phir sir ne kaha family k saath eid manao english me
+4/5/24, 9:25 PM - محمد عمر خان: Axa han shi thk eid baad chailainga
+4/5/24, 9:25 PM - محمد عمر خان: Roo mut
+4/5/24, 9:25 PM - محمد عمر خان: Or dld k course code bta
+4/5/24, 9:25 PM - Hafiz Sharjeel SMIU: Tujhe english nahi aati to me kia karun sir se bolun python me likhe🤬
+4/5/24, 9:25 PM - Hafiz Sharjeel SMIU: Dekhna parega
+4/5/24, 9:25 PM - محمد عمر خان: Hn
+4/5/24, 9:26 PM - Hafiz Sharjeel SMIU: This message was deleted
+4/6/24, 10:06 AM - محمد عمر خان: ??
+4/6/24, 5:45 PM - محمد عمر خان: Bhonk?
+4/6/24, 6:33 PM - Hafiz Sharjeel SMIU: Abe kuch nahi na ja dafa ho
+4/6/24, 6:33 PM - Hafiz Sharjeel SMIU: Eid bad mil na marja or dafan hoja
+4/6/24, 6:36 PM - محمد عمر خان: Aba manhoos dld ka course code too bta
+4/6/24, 6:38 PM - Hafiz Sharjeel SMIU: 5310
+4/6/24, 6:41 PM - محمد عمر خان: Lab ka charsi
+4/6/24, 8:14 PM - Hafiz Sharjeel SMIU: Abe abu charsi  (abu jahel) charsio k sardar lab ka hi he.
+4/6/24, 8:22 PM - محمد عمر خان: Aba mia charsi
+4/6/24, 8:22 PM - محمد عمر خان: Ghrk ho
+4/7/24, 7:52 PM - محمد عمر خان: oy
+4/7/24, 7:52 PM - محمد عمر خان: kal jaiga ya nh?
+4/7/24, 8:13 PM - Hafiz Sharjeel SMIU: Nahi
+4/7/24, 8:14 PM - Hafiz Sharjeel SMIU: me jara nafli ittakaf me 🙄
+4/7/24, 8:14 PM - محمد عمر خان: axa thk ab soja
+4/7/24, 8:14 PM - Hafiz Sharjeel SMIU: Tu soja
+4/8/24, 12:33 AM - محمد عمر خان: To mar ja
+4/8/24, 11:38 AM - محمد عمر خان: mar ja
+4/13/24, 3:24 PM - محمد عمر خان: oy
+4/13/24, 3:24 PM - محمد عمر خان: digital marketing
+4/13/24, 3:24 PM - محمد عمر خان: https://www.youtube.com/watch?v=6K-kAX3q_GY
+4/14/24, 10:26 PM - محمد عمر خان: Kal class kab h?
+4/14/24, 10:56 PM - Hafiz Sharjeel SMIU: Abe charsi 2 mahina hogaya tujhe class ka nahi pata
+4/14/24, 10:56 PM - Hafiz Sharjeel SMIU: Marja
+4/14/24, 11:51 PM - Hafiz Sharjeel SMIU: 9 baje he class
+4/18/24, 11:36 PM - محمد عمر خان: Oy
+4/18/24, 11:36 PM - محمد عمر خان: Hm log ki kafi chutti hoi h na OOPs ki daikh la, kia krna h?
+4/19/24, 12:21 AM - Hafiz Sharjeel SMIU: Kaddu kafi chutti howi he
+4/19/24, 12:21 AM - Hafiz Sharjeel SMIU: Ak bhi nahi he sirf tery ak howi he wo bhi makeup tha us ka apna koi class nahi tha <This message was edited>
+4/19/24, 12:22 AM - Hafiz Sharjeel SMIU: Or hamare pas 4 chance hote hen off karne k lie to 2 final me karenge
+4/19/24, 12:24 AM - Hafiz Sharjeel SMIU: Quiz ki tyyari karle math ki
+4/19/24, 11:06 AM - محمد عمر خان: <Media omitted>
+4/19/24, 11:07 AM - محمد عمر خان: yar ya wala hetnogeneous kasa nh h?
+4/19/24, 11:07 AM - محمد عمر خان: or upper wala kasa possible h?
+4/19/24, 11:27 AM - محمد عمر خان: oy
+4/19/24, 11:27 AM - محمد عمر خان: kon s lecture tuk aaiga?
+4/19/24, 11:28 AM - محمد عمر خان: quiz
+4/19/24, 11:28 AM - محمد عمر خان: farmao….
+4/19/24, 11:42 AM - Hafiz Sharjeel SMIU: Sara jaha tk parhaya he L #11
+4/19/24, 9:49 PM - محمد عمر خان: Hn ba kal ajana 2 bje tuk
+4/20/24, 4:02 PM - Hafiz Sharjeel SMIU: Q# 01: If ∅ = 𝐟(𝐱, 𝐲, 𝐳) and 𝐱 = √𝐯𝐰 , 𝐲 = √𝐮𝐰 , 𝐳 = √𝐮𝐯 then show that: [10 Marks]
+𝐮
+𝛛∅
+𝛛𝐮 + 𝐯
+𝛛∅
+𝛛𝐯 + 𝐰
+𝛛∅
+𝛛𝐰 = 𝐱
+𝛛∅
+𝛛𝐱 + 𝐲
+𝛛∅
+𝛛𝐲 + 𝐳
+𝛛∅
+𝛛𝐳.
+4/21/24, 4:46 PM - محمد عمر خان: Oy
+4/21/24, 4:46 PM - محمد عمر خان: Kia practice kr rha h?
+4/21/24, 4:52 PM - Hafiz Sharjeel SMIU: Hn lekin nahi horaha
+4/21/24, 5:28 PM - محمد عمر خان: kia bolna chahra h
+4/21/24, 7:53 PM - Hafiz Sharjeel SMIU: 9:30 baje start he
+4/21/24, 7:53 PM - محمد عمر خان: 9 bje aajaongaa
+4/21/24, 7:54 PM - Hafiz Sharjeel SMIU: Abe ooo gadhe 8:30 pr aana he
+4/21/24, 7:54 PM - محمد عمر خان: <Media omitted>
+4/21/24, 7:55 PM - Hafiz Sharjeel SMIU: Qasm se mera bhi solve nahi horaha
+Ak kaam kr hr topic ka naam youtube pr search kr 2 video dekh hr topic ka
+4/21/24, 7:56 PM - Hafiz Sharjeel SMIU: Basic cheez dekh le baqi Allah malik he
+4/21/24, 7:56 PM - محمد عمر خان: Aba pagal h kia
+4/21/24, 7:56 PM - محمد عمر خان: Itna kon dalha ga
+4/21/24, 7:57 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:00 PM - Hafiz Sharjeel SMIU: Acha
+4/21/24, 8:00 PM - Hafiz Sharjeel SMIU: Meko notes send kr wo wala
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:01 PM - محمد عمر خان: <Media omitted>
+4/21/24, 8:02 PM - Hafiz Sharjeel SMIU: Abe itna sara he😱
+4/21/24, 8:13 PM - Hafiz Sharjeel SMIU: Mujh se nahi hopaega😫
+4/21/24, 8:15 PM - محمد عمر خان: Sirf 2 sawal too kr
+4/21/24, 9:27 PM - محمد عمر خان: Oy
+4/21/24, 9:52 PM - Hafiz Sharjeel SMIU: Hn
+4/21/24, 9:52 PM - Hafiz Sharjeel SMIU: Bako
+4/21/24, 9:53 PM - محمد عمر خان: Kaha tuk pocha
+4/21/24, 9:53 PM - Hafiz Sharjeel SMIU: Me we series dekh raha🙄
+4/21/24, 9:53 PM - محمد عمر خان: Aba gadha yar
+4/21/24, 9:53 PM - Hafiz Sharjeel SMIU: Me thak gaya
+4/21/24, 9:53 PM - محمد عمر خان: Intaqal kr ja
+4/21/24, 9:54 PM - Hafiz Sharjeel SMIU: Phle shadi
+4/22/24, 6:52 AM - محمد عمر خان: oy
+4/22/24, 8:40 AM - Hafiz Sharjeel SMIU: Aaajaaa
+4/24/24, 5:31 PM - Hafiz Sharjeel SMIU: Oye kl 11:30 se 12:30 he to 10:30 baje aana
+4/24/24, 9:58 PM - Hafiz Sharjeel SMIU: Oe intaqal to nahi hogaya tera tery bari chal rahi he zinda reh? 🤨
+4/24/24, 11:00 PM - محمد عمر خان: Aba aik masla hogya h
+4/24/24, 11:08 PM - محمد عمر خان: Kal uni k lia jaldi nikalna hoga mujhe
+4/24/24, 11:08 PM - محمد عمر خان: Alkhidmat jana h
+4/24/24, 11:09 PM - محمد عمر خان: Medical test k lia
+4/24/24, 11:12 PM - Hafiz Sharjeel SMIU: Kia
+4/24/24, 11:12 PM - Hafiz Sharjeel SMIU: Oe aate howe karwa lena 12:30 baje
+4/24/24, 11:13 PM - محمد عمر خان: Subha 9 bje hoga
+4/24/24, 11:13 PM - Hafiz Sharjeel SMIU: To karwa kr 10:30 baje aajana
+4/24/24, 11:13 PM - محمد عمر خان: Pagal hai kia
+4/24/24, 11:14 PM - Hafiz Sharjeel SMIU: 100 rupe me tujhe dedunga petrol ka
+4/24/24, 11:14 PM - Hafiz Sharjeel SMIU: Khuwar nahi honga lekin
+4/24/24, 11:14 PM - محمد عمر خان: Tu rahan da
+4/24/24, 11:14 PM - Hafiz Sharjeel SMIU: Tu mujhe khuwar kar kr k mar dalega
+4/24/24, 11:14 PM - محمد عمر خان: Hn
+4/24/24, 11:14 PM - محمد عمر خان: Chaln h too chal warna nkl
+4/24/24, 11:15 PM - Hafiz Sharjeel SMIU: Aana 10:30 baje
+4/24/24, 11:15 PM - محمد عمر خان: Uni ajana paidal
+4/24/24, 11:15 PM - Hafiz Sharjeel SMIU: Chamat khaega
+4/24/24, 11:15 PM - Hafiz Sharjeel SMIU: Tukhe langra kardunga
+4/24/24, 11:19 PM - محمد عمر خان: <Media omitted>
+4/24/24, 11:20 PM - محمد عمر خان: Chalna h too chal
+4/24/24, 11:20 PM - Hafiz Sharjeel SMIU: Nahi oe me subah 4:30 baje sota hun
+4/24/24, 11:20 PM - محمد عمر خان: Iska ilwa kal tujhe poori raam kahani sonaonga
+4/24/24, 11:20 PM - Hafiz Sharjeel SMIU: Suna dena me sunnlunga
+4/24/24, 11:21 PM - محمد عمر خان: Aba agar s m farriq hua too tujhe lena asakta ho
+4/24/24, 11:21 PM - محمد عمر خان: Jaldii
+4/24/24, 11:22 PM - محمد عمر خان: Bht panchaet h nadra m
+4/24/24, 11:21 PM - Hafiz Sharjeel SMIU: Mubarak ho tujhe job🫀
+4/24/24, 11:21 PM - Hafiz Sharjeel SMIU: Kia mtlb
+4/24/24, 11:22 PM - Hafiz Sharjeel SMIU: Tu aaega 10:30 baje
+4/24/24, 11:22 PM - Hafiz Sharjeel SMIU: ☝🏻
+4/24/24, 11:23 PM - محمد عمر خان: Nh aya too online paper dadena
+4/24/24, 11:23 PM - Hafiz Sharjeel SMIU: Tujhe mar dalunga
+4/24/24, 11:24 PM - محمد عمر خان: <Media omitted>
+4/24/24, 11:25 PM - Hafiz Sharjeel SMIU: This message was deleted
+4/24/24, 11:25 PM - Hafiz Sharjeel SMIU: This message was deleted
+4/24/24, 11:29 PM - Hafiz Sharjeel SMIU: Data on rkana apna bahar niklega to
+4/25/24, 10:02 AM - Hafiz Sharjeel SMIU: Kaha he ghar aaya?
+4/25/24, 10:19 AM - Hafiz Sharjeel SMIU: null
+4/25/24, 10:20 AM - Hafiz Sharjeel SMIU: null
+4/25/24, 11:19 AM - محمد عمر خان: null
+4/25/24, 6:53 PM - Hafiz Sharjeel SMIU: Kl paper 9:30 baje he 8:30 baje aana
+4/26/24, 4:27 PM - Hafiz Sharjeel SMIU: Phonch gaya kia scene chal raha waha?
+4/27/24, 12:11 AM - Hafiz Sharjeel SMIU: Oe kl 1:30 baje aana he tujhe <This message was edited>
+4/27/24, 12:59 AM - محمد عمر خان: Kal btata ho
+4/27/24, 1:00 AM - Hafiz Sharjeel SMIU: Q kia howa
+4/27/24, 1:00 AM - Hafiz Sharjeel SMIU: Sab theek maza aaya?
+4/27/24, 1:00 AM - محمد عمر خان: Abh aya ho
+4/27/24, 1:00 AM - محمد عمر خان: Jara sona
+4/27/24, 1:00 AM - محمد عمر خان: Kal mil phr btata
+4/27/24, 1:00 AM - Hafiz Sharjeel SMIU: Soja marja intaqal karja
+4/27/24, 1:01 AM - محمد عمر خان: You deleted this message
+4/27/24, 1:01 AM - Hafiz Sharjeel SMIU: Uth jana 1:30 tk soe mt rehna
+4/27/24, 11:35 AM - Hafiz Sharjeel SMIU: Oe aaega na aaj lene?
+4/27/24, 11:57 AM - محمد عمر خان: nh
+4/27/24, 11:57 AM - محمد عمر خان: paidal jana
+4/27/24, 11:58 AM - Hafiz Sharjeel SMIU: Uber booking karrhaa😎
+4/28/24, 6:09 PM - Hafiz Sharjeel SMIU: Kl paper 11:30 baje he 
+10:30 pr aana he
+4/29/24, 10:43 AM - Hafiz Sharjeel SMIU: Kab aaega paper bad?
+5/1/24, 9:21 PM - محمد عمر خان: Kal class kab h
+5/1/24, 9:21 PM - Hafiz Sharjeel SMIU: 12 to 4
+5/1/24, 9:22 PM - Hafiz Sharjeel SMIU: Soch raha 12:30 tk phonchte wese bhi wo 1 bJe aaega
+5/1/24, 9:23 PM - Hafiz Sharjeel SMIU: Ya 12 tk phonchna he ?
+5/1/24, 11:08 PM - محمد عمر خان: Hn shi
+5/1/24, 11:09 PM - محمد عمر خان: 11 30 tuk aja
+5/2/24, 11:42 AM - محمد عمر خان: ?
+5/2/24, 11:45 AM - محمد عمر خان: null
+5/3/24, 10:49 AM - محمد عمر خان: Kab tuk aaiga
+5/3/24, 11:35 AM - Hafiz Sharjeel SMIU: 12
+5/3/24, 12:18 PM - محمد عمر خان: Kidhr mur gya
+5/4/24, 12:56 PM - محمد عمر خان: <Media omitted>
+5/4/24, 2:17 PM - Hafiz Sharjeel SMIU: Hn
+5/4/24, 6:10 PM - محمد عمر خان: Pakka na?
+5/4/24, 6:44 PM - Hafiz Sharjeel SMIU: Hn
+5/4/24, 6:45 PM - Hafiz Sharjeel SMIU: Hasan ko bhi dikha de
+5/4/24, 10:33 PM - محمد عمر خان: Sir noman ne abhi call kr k bola hai k students se kaho k main class lunga chahy 1 ya 2 hi ain agr students nahin aingy to main lecture 12,13,14 nahin krwaunga or next class main lecture 15 hoga.
+5/4/24, 10:33 PM - محمد عمر خان: Brother..
+5/4/24, 10:42 PM - Hafiz Sharjeel SMIU: <Media omitted>
+5/4/24, 10:44 PM - محمد عمر خان: Itna roya nh kr
+5/4/24, 10:44 PM - محمد عمر خان: Har waqt paisa paisa paisa
+5/4/24, 10:50 PM - Hafiz Sharjeel SMIU: ME bhot gareeb hun 🥺 <This message was edited>
+5/6/24, 8:14 AM - Hafiz Sharjeel SMIU: Kaha mar gaya
+5/6/24, 8:16 AM - Hafiz Sharjeel SMIU: Aaj time ka pata bhi he tujhe?
+5/6/24, 8:15 AM - Hafiz Sharjeel SMIU: null
+5/6/24, 8:15 AM - Hafiz Sharjeel SMIU: null
+5/8/24, 11:48 AM - محمد عمر خان: class kitna bje  h ?
+5/8/24, 12:27 PM - Hafiz Sharjeel SMIU: 2 baje he
+5/8/24, 12:27 PM - Hafiz Sharjeel SMIU: This message was deleted
+5/8/24, 8:28 PM - Hafiz Sharjeel SMIU: Oe kl 12 baje class he lekin thora late chalenge 11:30 baje aana. Chachcha der se aate hen.
+5/9/24, 10:37 AM - محمد عمر خان: Dance kr
+5/9/24, 10:51 AM - Hafiz Sharjeel SMIU: Hn q nahi
+5/9/24, 11:02 AM - محمد عمر خان: <Media omitted>
+5/10/24, 10:30 AM - محمد عمر خان: Oy
+5/10/24, 10:31 AM - محمد عمر خان: Koi nh jara uni kia krna h
+5/10/24, 11:16 AM - Hafiz Sharjeel SMIU: Oe meko kl ka calculas ka class me to le kr chal
+5/10/24, 11:16 AM - Hafiz Sharjeel SMIU: Me apna week bhi cover karun or ab kis tera week bhi me cover karun kl?
+5/10/24, 11:18 AM - محمد عمر خان: cover ki baat nh tujhe bataya tha sister ka paper h
+5/10/24, 11:18 AM - محمد عمر خان: 12 number pa center para h
+5/10/24, 11:18 AM - محمد عمر خان: wo chodh abh ya bta abh uni chalna h ka nh??
+5/10/24, 11:19 AM - Hafiz Sharjeel SMIU: Chal aaj nahi jate ager me kl calculas ki class me jata hun to mery bari me apna ak din cover kardena
+5/10/24, 11:19 AM - محمد عمر خان: hamari OOP ki kitni chutti hui>??
+5/10/24, 11:20 AM - Hafiz Sharjeel SMIU: 3 chuti he
+5/10/24, 11:20 AM - محمد عمر خان: pakka??
+5/10/24, 11:20 AM - Hafiz Sharjeel SMIU: Yup
+5/10/24, 11:20 AM - محمد عمر خان: bss set kal ki timig ka hisab sa ma batata ho
+5/11/24, 11:09 PM - محمد عمر خان: Oy
+5/11/24, 11:09 PM - محمد عمر خان: Too abh office m h?
+5/11/24, 11:29 PM - Hafiz Sharjeel SMIU: Hn
+5/11/24, 11:29 PM - Hafiz Sharjeel SMIU: Q kia howa?
+5/11/24, 11:32 PM - محمد عمر خان: Usb h pass m?
+5/11/24, 11:32 PM - Hafiz Sharjeel SMIU: Nahi to
+5/11/24, 11:32 PM - محمد عمر خان: Jugad nh hosakta?
+5/11/24, 11:32 PM - Hafiz Sharjeel SMIU: Nahi
+5/11/24, 11:33 PM - محمد عمر خان: Kisi k pass bh nh
+5/11/24, 11:33 PM - Hafiz Sharjeel SMIU: Sound card headphone he or me hun
+5/11/24, 11:33 PM - Hafiz Sharjeel SMIU: Abe nahi he headphone he bhot sara
+5/11/24, 11:33 PM - محمد عمر خان: Aba yar
+5/11/24, 11:33 PM - محمد عمر خان: Chal koi nh
+5/11/24, 11:33 PM - Hafiz Sharjeel SMIU: Kia hogaya
+5/11/24, 11:33 PM - محمد عمر خان: Aba mari OS corrupt hogya
+5/11/24, 11:33 PM - محمد عمر خان: Nh chalra
+5/11/24, 11:34 PM - محمد عمر خان: ISO download kr ni th
+5/11/24, 11:34 PM - Hafiz Sharjeel SMIU: 🥳🥳
+5/11/24, 11:34 PM - محمد عمر خان: Aba yar urgent h too maza la ra h
+5/11/24, 11:34 PM - Hafiz Sharjeel SMIU: Abe mw kuch nahi karskta abhi sorf maze le skta hun🙄
+5/11/24, 11:35 PM - محمد عمر خان: Apna kr
+5/12/24, 1:03 AM - Hafiz Sharjeel SMIU: This message was deleted
+5/15/24, 11:42 AM - محمد عمر خان: 2 bje class h??
+5/15/24, 12:32 PM - Hafiz Sharjeel SMIU: Hn
+5/15/24, 12:54 PM - محمد عمر خان: Thodi dair sa ana
+5/15/24, 12:54 PM - محمد عمر خان: Namaz padh ka chalainga
+5/16/24, 8:22 AM - محمد عمر خان: Oy
+5/16/24, 8:22 AM - محمد عمر خان: Aj too nh jaiga na ?
+5/16/24, 9:55 AM - Hafiz Sharjeel SMIU: Nahi
+5/16/24, 9:58 AM - محمد عمر خان: Bss set
+5/16/24, 11:21 AM - محمد عمر خان: Oy
+5/16/24, 11:21 AM - محمد عمر خان: Toona krdia?
+5/16/24, 1:16 PM - Hafiz Sharjeel SMIU: Kia? Vote?
+5/16/24, 1:16 PM - Hafiz Sharjeel SMIU: ACP ko dia vote
+5/16/24, 1:16 PM - محمد عمر خان: Aba ma wahi pooch ra ho
+5/16/24, 1:16 PM - محمد عمر خان: Too cms p kr dia
+5/16/24, 1:17 PM - Hafiz Sharjeel SMIU: Hn
+5/16/24, 1:18 PM - محمد عمر خان: Bhootni ka mujhe bataya bh nh
+5/16/24, 1:18 PM - Hafiz Sharjeel SMIU: Abe sale 10:30 par hi kia hun <This message was edited>
+5/16/24, 1:18 PM - محمد عمر خان: Dafa ho
+5/16/24, 1:18 PM - Hafiz Sharjeel SMIU: Marks dekhne de ict ka
+5/16/24, 1:55 PM - محمد عمر خان: Ict?
+5/16/24, 2:12 PM - Hafiz Sharjeel SMIU: Nahi mila
+5/16/24, 2:12 PM - Hafiz Sharjeel SMIU: Pata nahi kaha dekhte hen
+5/17/24, 10:54 AM - محمد عمر خان: kb tuk aaiga??
+5/17/24, 11:08 AM - Hafiz Sharjeel SMIU: 12 baje
+5/17/24, 7:01 PM - Hafiz Sharjeel SMIU: <Media omitted>
+5/17/24, 7:02 PM - Hafiz Sharjeel SMIU: <Media omitted>
+5/17/24, 8:20 PM - Hafiz Sharjeel SMIU: Reply kar meko
+5/17/24, 8:21 PM - محمد عمر خان: Set h jano
+5/17/24, 8:21 PM - محمد عمر خان: Or kxh hkm
+5/17/24, 8:23 PM - محمد عمر خان: <Media omitted>
+5/17/24, 8:27 PM - Hafiz Sharjeel SMIU: Dance karte hen attendence gaya ager me bike le bhi aaon to tension ye he k raste me kuch bhand na hojae q k mera abh ghar jana bhi mushkik lagraha tension hora he
+5/17/24, 8:28 PM - محمد عمر خان: Aba paper m allowed nh hua too
+5/17/24, 8:28 PM - Hafiz Sharjeel SMIU: Han ye bhi he
+5/17/24, 8:28 PM - محمد عمر خان: <Media omitted>
+5/17/24, 8:29 PM - محمد عمر خان: Ab ma jara padhana
+5/17/24, 8:29 PM - Hafiz Sharjeel SMIU: Kia karun yr samj nahi aara
+5/17/24, 8:30 PM - Hafiz Sharjeel SMIU: Karta hun lekin sir count karte hen waha phans jaenge ham ager azeem yaha se han bhi karde or waha na karen to hanare ___ lag jaenge
+5/17/24, 9:33 PM - محمد عمر خان: Ab kia karain
+5/17/24, 10:06 PM - Hafiz Sharjeel SMIU: Kuch samj nahi aara meko bhot tension horaha he
+5/17/24, 10:08 PM - Hafiz Sharjeel SMIU: Cr online nahi horaha
+5/17/24, 10:08 PM - Hafiz Sharjeel SMIU: Meko yad dila ham ne kab kab class miss kia mvc ka
+5/17/24, 10:10 PM - Hafiz Sharjeel SMIU: <Media omitted>
+5/17/24, 10:15 PM - Hafiz Sharjeel SMIU: <Media omitted>
+5/17/24, 10:16 PM - محمد عمر خان: <Media omitted>
+5/17/24, 10:17 PM - Hafiz Sharjeel SMIU: ☝🏻
+5/17/24, 10:17 PM - Hafiz Sharjeel SMIU: Ye sun
+5/17/24, 10:20 PM - Hafiz Sharjeel SMIU: <Media omitted>
+5/17/24, 10:27 PM - Hafiz Sharjeel SMIU: <Media omitted>
+5/17/24, 11:22 PM - محمد عمر خان: Hn khair h
+5/17/24, 11:22 PM - محمد عمر خان: Allah malik h
+5/18/24, 11:17 AM - Hafiz Sharjeel SMIU: Qismat ham se kia karwa deti he or ham kia sochte hen😢 <This message was edited>
+5/18/24, 11:48 AM - محمد عمر خان: or Monday ko aainga ma nh
+5/18/24, 11:49 AM - محمد عمر خان: Azeem na attendance lagai?
+5/18/24, 11:55 AM - Hafiz Sharjeel SMIU: Kia
+5/18/24, 11:56 AM - محمد عمر خان: Monday ko app aainga aj jo chuttu hui
+5/18/24, 12:01 PM - Hafiz Sharjeel SMIU: Abe oe mene kaha tha Saturday ko tu aaja me Monday ko aajaonga. Warna ese to last tuesday bhi aap ne off karwaya tha aap ki bike ki waja se. Mene aap se kaha aap kab aaenge
+5/18/24, 12:02 PM - Hafiz Sharjeel SMIU: Baad me pata chalega
+5/18/24, 12:02 PM - محمد عمر خان: beta G chutti hui ap ki waja sa
+5/18/24, 12:02 PM - محمد عمر خان: mari bike buzy th
+5/18/24, 12:02 PM - Hafiz Sharjeel SMIU: Last tuesday chutti howi aap ki waja se <This message was edited>
+5/18/24, 12:02 PM - محمد عمر خان: last Thursday?
+5/18/24, 12:02 PM - محمد عمر خان: database wali
+5/18/24, 12:03 PM - Hafiz Sharjeel SMIU: Yes mvc yr jo tery bike panchar hogai thi
+5/18/24, 12:03 PM - محمد عمر خان: G last thurday bh off kia tha ap na mana nh
+5/18/24, 12:03 PM - Hafiz Sharjeel SMIU: To last friday off kia aap ne oop ki class me mene nahi
+5/18/24, 12:03 PM - محمد عمر خان: m ap ko bol ra tha daikh lo attendance ka koi issue na aai
+5/18/24, 12:04 PM - محمد عمر خان: or agar sa ap ko yaad hoot jab mara NADRA sa seen chal ra tha too tab bh yhi hua tha
+5/18/24, 12:04 PM - محمد عمر خان: wasa jo bh ho aj too jana lazmi tha ap ko bh mujhe bh
+5/18/24, 12:05 PM - Hafiz Sharjeel SMIU: <Media omitted>
+5/18/24, 12:06 PM - Hafiz Sharjeel SMIU: <Media omitted>
+5/18/24, 12:06 PM - محمد عمر خان: ma bh gya tha agar ap ko yaad ho ma hospital sa direct gya tha
+5/18/24, 12:06 PM - محمد عمر خان: abh ka yhi seen h mari aj ki chutti ap kia waja sa hui
+5/18/24, 12:06 PM - محمد عمر خان: ma paidal too jana sa rha
+5/18/24, 12:06 PM - Hafiz Sharjeel SMIU: <Media omitted>
+5/18/24, 12:07 PM - محمد عمر خان: aj mujhe jana tha
+5/18/24, 12:07 PM - Hafiz Sharjeel SMIU: <Media omitted>
+5/18/24, 12:07 PM - محمد عمر خان: too aj bh apko laka jana tha
+5/18/24, 12:07 PM - محمد عمر خان: mari bike nh thai is lia ma nh gya
+5/18/24, 12:07 PM - Hafiz Sharjeel SMIU: 👆🏻
+5/18/24, 12:07 PM - محمد عمر خان: ok
+5/18/24, 12:07 PM - Hafiz Sharjeel SMIU: This message was deleted
+5/18/24, 12:56 PM - Hafiz Sharjeel SMIU: Rothru😂
+5/20/24, 8:15 AM - Hafiz Sharjeel SMIU: Aaaajaaaaooo🤧
+5/20/24, 9:47 AM - محمد عمر خان: <Media omitted>
