@@ -29,6 +29,7 @@ def preprocess_data(data):
     
     df['year'] = df['date'].dt.year
     df['month'] = df['date'].dt.month_name()
+    df['month_name'] = df['date'].dt.month
     df['day'] = df['date'].dt.day
     df['hour'] = df['date'].dt.hour
     df['minute'] = df['date'].dt.minute
