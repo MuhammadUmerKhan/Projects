@@ -31,7 +31,19 @@ def preprocess_data(data):
     df['month'] = df['date'].dt.month_name()
     df['month_name'] = df['date'].dt.month
     df['day'] = df['date'].dt.day
+    df['only_data'] = df['date'].dt.date
+    df['day_name'] = df['date'].dt.day_name()
+    df.rename(columns={'only_data':'only_date'}, inplace=True)
     df['hour'] = df['date'].dt.hour
     df['minute'] = df['date'].dt.minute
     
+    period = []
+    for hr in df[['day_name', 'hour']]['hour']:
+        if hr == 23:
+            period.append(str(hr) + '-' + str('00'))
+        elif hr == 0:
+            period.append(str('00') + '-' + str(hr+1))
+        else:
+            period.append(str(hr) + '-' + str(hr+1))
+    df['period'] = period
     return df

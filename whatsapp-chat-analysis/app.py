@@ -39,7 +39,7 @@ if uploaded_file is not None:
             st.header("Links Shared")
             st.title(links_shared)
         # timeline
-        st.title("Monthly Timeline")
+        st.title("Timeline")
         timeline = helper.monthly_timeline(selected_user, df)
         fig = go.Figure(data=go.Scatter(x=timeline['time'], y=timeline['message'], mode='lines'))
         fig.update_layout(title='Timeline Plot',
@@ -48,6 +48,56 @@ if uploaded_file is not None:
 
         st.plotly_chart(fig)
                 
+        # Daily timeline
+        daily_timeline = helper.daily_timeline(selected_user, df)
+        # st.title("Daily Timeline")
+        fig = go.Figure(data=go.Scatter(x=daily_timeline['only_date'], y=daily_timeline['message'], mode='lines'))
+        fig.update_layout(title='Daily Timeline Plot',
+                        xaxis_title='Date',
+                        yaxis_title='Message')
+
+        st.plotly_chart(fig)
+        # weekly activity timeline
+        
+        st.title("Activity Map")
+        st.header("Most Busy Day")
+        busy_day = helper.week_activity_map(selected_user, df)
+        fig = go.Figure()
+        fig.add_trace(go.Bar(
+            x=busy_day.index, y=busy_day.values
+        ))
+        fig.update_layout(
+            title='Busy day in Week Day',
+            xaxis=dict(tickangle=90),
+            autosize=False,
+            width=600,  # Adjust the width
+            height=400,  # Adjust the height
+            margin=dict(l=50, r=50, b=100, t=100, pad=4)
+        ); st.plotly_chart(fig)
+        
+        st.header("Most Busy Month")
+        busy_month = helper.month_activity_map(selected_user, df)
+        fig = go.Figure()
+        fig.add_trace(go.Bar(
+            x=busy_month.index, y=busy_month.values
+        ))
+        fig.update_layout(
+            title='Busy Month',
+            xaxis=dict(tickangle=90),
+            autosize=False,
+            width=600, 
+            height=400,
+            margin=dict(l=50, r=50, b=100, t=100, pad=4)
+        ); st.plotly_chart(fig) 
+        
+        st.title("Weekly Activity Map")
+        user_heatmap = helper.activity_heatmap(selected_user,df)
+        fig,ax = plt.subplots()
+        ax = sns.heatmap(user_heatmap)
+        st.pyplot(fig)
+
+        
+        
         if selected_user == 'Overall':
             st.title("Most Busy Users")
             x, active_user_data = helper.most_busy_user(df)
@@ -64,13 +114,9 @@ if uploaded_file is not None:
                 height=400,  # Adjust the height
                 margin=dict(l=50, r=50, b=100, t=100, pad=4)
             )
-            
-            col1, col2 = st.columns(2)
-            with col1:
-                
-                st.dataframe(active_user_data)
-            with col2:
-                st.plotly_chart(fig)
+                            
+            # st.dataframe(active_user_data)
+            st.plotly_chart(fig)
             
         st.title("Wordcloud")
         df_wc = helper.create_wordcloud(selected_user, df)
